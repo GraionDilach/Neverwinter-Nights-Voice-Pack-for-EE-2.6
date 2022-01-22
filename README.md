@@ -14,6 +14,8 @@ Adds the following characters:
  - Sharwyn (HOTU)
  - Sharwyn (TWD)
  - Aribeth de Tylmarande (TWD)
+ - Male, Brash Persistent (TWD)
+ - Pavel (TWD)
 
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).
