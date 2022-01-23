@@ -16,6 +16,8 @@ Adds the following characters:
  - Aribeth de Tylmarande (TWD)
  - Male, Brash Persistent (TWD)
  - Pavel (TWD)
+ - Male, Reserved Guardian (TWD)
+ - Female, Feisty (SOU)
 
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).
