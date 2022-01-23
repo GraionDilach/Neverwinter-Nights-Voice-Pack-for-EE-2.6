@@ -18,6 +18,7 @@ Adds the following characters:
  - Pavel (TWD)
  - Male, Reserved Guardian (TWD)
  - Female, Feisty (SOU)
+ - Male, Archer (HOTU)
 
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).

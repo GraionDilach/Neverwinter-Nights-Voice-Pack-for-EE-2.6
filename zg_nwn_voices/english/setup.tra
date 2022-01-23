@@ -265,6 +265,39 @@
 @764 = ~Shh! Time to be quiet.~ [zgn1fe5]    ///  cd_shadows #5
 @765 = ~Okay, time to relax a bit.~ [zgn1fec]    ///  cd_tired #c
 
+@800 = ~NWN: Male, Archer (HOTU)~
+@801 = ~No problem.~ [zgn2ari]    ///  cd_action1 #i
+@802 = ~Another job well done.~ [zgn2arj]    ///  cd_action2 #j
+@803 = ~Good idea.~ [zgn2ark]    ///  cd_action3 #k
+@804 = ~Sure.~ [zgn2ars]    ///  cd_action4 #s
+@816 = ~Death is coming for you!~ [zgn2ara]    ///  cd_battlecry1 #a
+@817 = ~You're going down!~ [zgn2ar8]    ///  cd_battlecry2 #8
+@818 = ~You can't win!~ [zgn2ar9]    ///  cd_battlecry3 #9
+@819 = ~I hear the battle calling... attack!~ [zgn2arg_]   ///  cd_battlecry4 #g_
+@820 = ~Is that the best you've got?~ [zgn2arh_]   ///  cd_battlecry5 #h_
+@821 = ~Maybe we should get moving.~ [zgn2ard]    ///  cd_bored #d
+@825 = ~Hello.~ [zgn2arf]    ///  cd_common1 #f
+@826 = ~Can we talk for a second?~ [zgn2arg]    ///  cd_common2 #g
+@827 = ~What do you need?~ [zgn2arh]    ///  cd_common3 #h
+@832 = ~Ahahahaha!~ [zgn2arz]    ///  cd_criticalhit #z
+@833 = ~Damn!~ [zgn2ar1]    ///  cd_criticalmiss #1 (number)
+@834 = ~Urrh!~ [zgn2arl]    ///  cd_damage #l (letter)
+@835 = ~Uh!~ [zgn2arn_]   ///  cd_damage2 #n_
+@836 = ~Urh!~ [zgn2aro_]   ///  cd_damage3 #o_
+@838 = ~My spell's failed!~ [zgn2ar6]    ///  cd_disrupted #6
+@840 = ~Hrnh-aaaaahhhhhh...~ [zgn2arm]    ///  cd_dying #m
+@846 = ~Quickly; I need healing.~ [zgn2are]    ///  cd_hurt #e
+@847 = ~Can't last much... longer.~ [zgn2ars_]   ///  cd_hurt2 #s_
+@848 = ~This weapon has no effect!~ [zgn2ar2]    ///  cd_immune #2
+@849 = ~This equipment is too heavy for me.~ [zgn2ar3]    ///  cd_inventory #3
+@850 = ~Let me take the lead.~ [zgn2arb]    ///  cd_leader #b
+@851 = ~Stay close and cover my back.~ [zgn2art_]   ///  cd_leader2 #t_
+@852 = ~Fall back! Fall back!~ [zgn2aru_]   ///  cd_morale_break #u_
+@855 = ~Thanks.~ [zgn2ar4]    ///  cd_pickpocket #4
+@864 = ~Softly, now. Very softly.~ [zgn2ar5]    ///  cd_shadows #5
+@865 = ~I need to stop and rest.~ [zgn2arc]    ///  cd_tired #c
+@867 = ~Let's take a closer look.~ [zgn2ar7]    ///  cd_trap #7
+
 
 
 /// @00 = ~NWN: ~
