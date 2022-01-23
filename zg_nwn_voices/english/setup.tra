@@ -15,7 +15,7 @@
 @119 = ~Come on! Come on!~ [zgnshbg_]   ///  cd_battlecry4 #g_
 @120 = ~We strike down our foes as heroes from the oldest tales!~ [zgnshbh_]   ///  cd_battlecry5 #h_
 @121 = ~Some excitement would be welcome.~ [zgnshbd]    ///  cd_bored #d
-@123 = ~There's no real purpose in us speaking to another, is there?~ [zgnshbj_]   ///  cd_breaking_pt #j_
+@123 = ~There's no real purpose in us speaking to one another, is there?~ [zgnshbj_]   ///  cd_breaking_pt #j_
 @125 = ~Well met.~ [zgnshbf]    ///  cd_common1 #f
 @126 = ~Something you need?~ [zgnshbg]    ///  cd_common2 #g
 @127 = ~Is there something I can do for you?~ [zgnshbh]    ///  cd_common3 #h
@@ -41,12 +41,12 @@
 @150 = ~Let's stay together now.~ [zgnshbb]    ///  cd_leader #b
 @151 = ~You have my appreciation.~ [zgnshbt_]   ///  cd_leader2 #t_
 @152 = ~We've got to get out of here!~ [zgnshbu_]   ///  cd_morale_break #u_
-@154 = ~Have you ever tried drawing a map by torchlight? This is so frustrating.~ [zgnshbr]    ///  cd_night #r
+@154 = ~Have you ever tried drawing a map by torchlight? This is so frustrating...~ [zgnshbr]    ///  cd_night #r
 @155 = ~Sorry.~ [zgnshb4]    ///  cd_pickpocket #4
 @156 = ~Hmmm... Is this off-tune? I can't decide.~ [zgnshbw_]   ///  cd_select_rare1 #w_
-@157 = ~Wait... did I mark this on the map right? Dammit!~ [zgnshbx_]   ///  cd_select_rare2 #x_
-@158 = ~You know, I began adventuring to became famous. And I always seem to end up with someone who takes the credit.~ [zgnshby_]   ///  cd_select_rare3 #y_
-@159 = ~Just watch! I'm going to write some great song down here then die horribly, just so that it can be found by some talentless bard, years from now and he'll become famous.~ [zgnshbz_]   ///  cd_select_rare4 #z_
+@157 = ~Wait... did I mark this on the map right? Damn it!~ [zgnshbx_]   ///  cd_select_rare2 #x_
+@158 = ~You know, I began adventuring to be famous. Yet I always seem to end up traveling with someone who takes the credit.~ [zgnshby_]   ///  cd_select_rare3 #y_
+@159 = ~Just watch. I'm going to write some great song down here and then die horribly just so it can be found by some talentless bard years from now and *he'll* become famous.~ [zgnshbz_]   ///  cd_select_rare4 #z_
 @164 = ~Time to fade into the background, hmm?~ [zgnshb5]    ///  cd_shadows #5
 @165 = ~I need to sit down, just for a bit. ~ [zgnshbc]    ///  cd_tired #c
 @167 = ~Finished.~ [zgnshb7]    ///  cd_trap #7
