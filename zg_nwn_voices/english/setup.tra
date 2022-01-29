@@ -409,6 +409,54 @@
 @1167 = ~I'm going to try something; cover me.~ [zgnlin7]    ///  cd_trap #7
 @1169 = ~Did you think that through, or are you just grasping at straws?~ [zgnlin5_]   ///  cd_unhappy_2 #6_
 
+@1200 = ~NWN: Linu La'neral (HOTU)~
+@1201 = ~Alright, dear.~ [zgnlioi]    ///  cd_action1 #i
+@1202 = ~I'm done here.~ [zgnlioj]    ///  cd_action2 #j
+@1203 = ~That makes sense to me.~ [zgnliok]    ///  cd_action3 #k
+@1204 = ~By Sehanine, I should say so!~ [zgnlios]    ///  cd_action4 #s
+@1205 = ~This way, dear.~ [zgnliot]    ///  cd_action5 #t
+@1206 = ~Sehanine, give me courage to walk into the shadows...~ [zgnliou]    ///  cd_action6 #u
+@1207 = ~Then may Sehanine guide my hand.~ [zgnliov]    ///  cd_action7 #v
+@1208 = ~Oh dear. There went my heel. Sigh...~ [zgnliox]    ///  cd_action_rare1 #x
+@1209 = ~I would never have pictured myself doing this back at the temple in Evereska.~ [zgnlioy]    ///  cd_action_rare2 #y
+@1216 = ~Sehanine's will be done!~ [zgnlioa]    ///  cd_battlecry1 #a
+@1217 = ~By all that is good!~ [zgnlio8]    ///  cd_battlecry2 #8
+@1218 = ~In the name of the Seldarine!~ [zgnlio9]    ///  cd_battlecry3 #9
+@1219 = ~For all that is good, be ready to battle!~ [zgnliog_]   ///  cd_battlecry4 #g_
+@1220 = ~The will of one who is good and right shall stop you.~ [zgnlioh_]   ///  cd_battlecry5 #h_
+@1221 = ~Well, this is certainly one way of not getting anywhere, isn't it?~ [zgnliod]    ///  cd_bored #d
+@1224 = ~Oops! I spilled something on my armor...~ [zgnlioo]    ///  cd_city #o
+@1225 = ~Blessed be.~ [zgnliof]    ///  cd_common1 #f
+@1226 = ~If I might say something, dear?~ [zgnliog]    ///  cd_common2 #g
+@1227 = ~Your will?~ [zgnlioh]    ///  cd_common3 #h
+@1228 = ~Is there anything you need from me?~ [zgnlio0]    ///  cd_common4 #0
+@1229 = ~May we speak, dear?~ [zgnliok_]   ///  cd_common5 #k_
+@1230 = ~What can I do for you?~ [zgnliol_]   ///  cd_common6 #l_
+@1231 = ~Blessed be, my friend.~ [zgnliom_]   ///  cd_common7 #m_
+@1232 = ~The gods would be pleased today!~ [zgnlioz]    ///  cd_criticalhit #z
+@1233 = ~Takasi! Oh, please do excuse my elven.~ [zgnlio1]    ///  cd_criticalmiss #1 (number)
+@1234 = ~Agh!~ [zgnliol]    ///  cd_damage #l (letter)
+@1235 = ~Ah!~ [zgnlion_]   ///  cd_damage2 #n_
+@1236 = ~Ah!~ [zgnlioo_]   ///  cd_damage3 #o_
+@1237 = ~Where did my symbol go? Did I drop it again?~ [zgnlioq]    ///  cd_day #q
+@1238 = ~My magic has failed!~ [zgnlio6]    ///  cd_disrupted #6
+@1239 = ~How many heroes have met ignoble ends in these halls? It is sad to think about.~ [zgnliop]    ///  cd_dungeon #p
+@1240 = ~Aaagh... aah...~ [zgnliom]    ///  cd_dying #m
+@1241 = ~With my... last breath, I...~ [zgnliop_]   ///  cd_dying2 #p_
+@1242 = ~I don't want to step into any traps. I seem to do that too often.~ [zgnlion]    ///  cd_forest #n
+@1246 = ~I will need healing quickly.~ [zgnlioe]    ///  cd_hurt #e
+@1247 = ~Please! Some assistance!~ [zgnlios_]   ///  cd_hurt2 #s_
+@1248 = ~It seems my weapon is of no use here!~ [zgnlio2]    ///  cd_immune #2
+@1249 = ~This is too much to place on me, dear, I'm sorry.~ [zgnlio3]    ///  cd_inventory #3
+@1250 = ~We should work together.~ [zgnliob]    ///  cd_leader #b
+@1251 = ~I need assistance over here! Cover me!~ [zgnliot_]   ///  cd_leader2 #t_
+@1252 = ~We must fall back!~ [zgnliou_]   ///  cd_morale_break #u_
+@1254 = ~Oh my! Did you hear that? Oh... maybe it was nothing.~ [zgnlior]    ///  cd_night #r
+@1255 = ~I thank you, truly.~ [zgnlio4]    ///  cd_pickpocket #4
+@1264 = ~Let us move unseen, then.~ [zgnlio5]    ///  cd_shadows #5
+@1265 = ~On a journey there must always be time to rest.~ [zgnlioc]    ///  cd_tired #c
+
+
 
 
 /// @00 = ~NWN: ~

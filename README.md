@@ -22,6 +22,7 @@ Adds the following characters:
  - Female, Quiet Leader (SOU)
  - Grimgnaw (TWD)
  - Linu La'neral (TWD)
+ - Linu La'neral (HOTU)
 
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).
