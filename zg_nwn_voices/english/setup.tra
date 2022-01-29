@@ -456,6 +456,43 @@
 @1264 = ~Let us move unseen, then.~ [zgnlio5]    ///  cd_shadows #5
 @1265 = ~On a journey there must always be time to rest.~ [zgnlioc]    ///  cd_tired #c
 
+@1300 = ~NWN: Boddyknock Glinckle (TWD)~
+@1301 = ~It is easily accomplished.~ [zgnbodi]    ///  cd_action1 #i
+@1302 = ~I have concluded this task.~ [zgnbodj]    ///  cd_action2 #j
+@1303 = ~A well thought out plan.~ [zgnbodk]    ///  cd_action3 #k
+@1304 = ~That would be correct.~ [zgnbods]    ///  cd_action4 #s
+@1305 = ~This way. I won't lead you astray.~ [zgnbodt]    ///  cd_action5 #t
+@1316 = ~My magic will take care of you!~ [zgnboda]    ///  cd_battlecry1 #a
+@1317 = ~All evidence points to victory!~ [zgnbod8]    ///  cd_battlecry2 #8
+@1318 = ~This is going to get messy!~ [zgnbod9]    ///  cd_battlecry3 #9
+@1319 = ~Let's get them!~ [zgnbodg_]   ///  cd_battlecry4 #g_
+@1320 = ~I'll teach you to mess with gnomes!~ [zgnbodh_]   ///  cd_battlecry5 #h_
+@1321 = ~We aren't going to discover anything new just sitting here.~ [zgnbodd]    ///  cd_bored #d
+@1325 = ~Greetings, friend.~ [zgnbodf]    ///  cd_common1 #f
+@1326 = ~I want to run a hypothesis by you.~ [zgnbodg]    ///  cd_common2 #g
+@1327 = ~You require some assistance?~ [zgnbodh]    ///  cd_common3 #h
+@1328 = ~Is there something you need?~ [zgnbod0]    ///  cd_common4 #0
+@1329 = ~Hello there.~ [zgnbodk_]   ///  cd_common5 #k_
+@1330 = ~How can I be of service to you?~ [zgnbodl_]   ///  cd_common6 #l_
+@1331 = ~Well met.~ [zgnbodm_]   ///  cd_common7 #m_
+@1332 = ~Spectacular!~ [zgnbodz]    ///  cd_criticalhit #z
+@1333 = ~Chaos and confusion!~ [zgnbod1]    ///  cd_criticalmiss #1 (number)
+@1334 = ~Uh!~ [zgnbodl]    ///  cd_damage #l (letter)
+@1335 = ~Uh!~ [zgnbodn_]   ///  cd_damage2 #n_
+@1336 = ~Uh!~ [zgnbodo_]   ///  cd_damage3 #o_
+@1338 = ~My spell - failed? But I did everything right!~ [zgnbod6]    ///  cd_disrupted #6
+@1340 = ~Aaaaah!~ [zgnbodm]    ///  cd_dying #m
+@1346 = ~It appears I require medical assistance.~ [zgnbode]    ///  cd_hurt #e
+@1347 = ~The facts are quite clear - heal me or I'm done for.~ [zgnbods_]   ///  cd_hurt2 #s_
+@1348 = ~My attack has no noticeable effect.~ [zgnbod2]    ///  cd_immune #2
+@1349 = ~Obviously you overestimate the weight I can manage.~ [zgnbod3]    ///  cd_inventory #3
+@1350 = ~Gather 'round everyone. Get into formation.~ [zgnbodb]    ///  cd_leader #b
+@1351 = ~I could use some protection.~ [zgnbodt_]   ///  cd_leader2 #t_
+@1352 = ~By my calculations this is a good time to flee.~ [zgnbodu_]   ///  cd_morale_break #u_
+@1355 = ~Sorry.~ [zgnbod4]    ///  cd_pickpocket #4
+@1364 = ~Silence seems to be the best option in this case.~ [zgnbod5]    ///  cd_shadows #5
+@1365 = ~Logic dictates we stop to rest sometime.~ [zgnbodc]    ///  cd_tired #c
+@1367 = ~Be careful!~ [zgnbod7]    ///  cd_trap #7
 
 
 
