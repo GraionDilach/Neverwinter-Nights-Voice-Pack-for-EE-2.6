@@ -21,6 +21,7 @@ Adds the following characters:
  - Male, Archer (HOTU)
  - Female, Quiet Leader (SOU)
  - Grimgnaw (TWD)
+ - Linu La'neral (TWD)
 
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).

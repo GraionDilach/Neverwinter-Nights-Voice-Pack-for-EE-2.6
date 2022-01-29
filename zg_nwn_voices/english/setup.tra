@@ -370,6 +370,49 @@
 @1065 = ~If we stop to rest I promise you won't die in your sleep... tonight.~ [zgngric]    ///  cd_tired #c
 @1067 = ~Ah-ha-ha-ha!~ [zgngri7]    ///  cd_trap #7
 
+@1100 = ~NWN: Linu La'neral (TWD)~
+@1101 = ~All right dear, I'm getting to it.~ [zgnlini]    ///  cd_action1 #i
+@1102 = ~I'm all done here.~ [zgnlinj]    ///  cd_action2 #j
+@1103 = ~That makes sense to me, dear.~ [zgnlink]    ///  cd_action3 #k
+@1104 = ~By Sehanine, I should say so!~ [zgnlins]    ///  cd_action4 #s
+@1105 = ~This way, dear. Come on.~ [zgnlint]    ///  cd_action5 #t
+@1116 = ~In the name of Sehanine Moonbow!~ [zgnlina]    ///  cd_battlecry1 #a
+@1117 = ~Goddess take you now!~ [zgnlin8]    ///  cd_battlecry2 #8
+@1118 = ~Victory will be ours!~ [zgnlin9]    ///  cd_battlecry3 #9
+@1119 = ~I'm going to kill you, then bring you back to life so I can kill you again.~ [zgnling_]   ///  cd_battlecry4 #g_
+@1120 = ~Next stop, the land of the dead!~ [zgnlinh_]   ///  cd_battlecry5 #h_
+@1121 = ~Well, this is certainly one way of not getting anywhere.~ [zgnlind]    ///  cd_bored #d
+@1123 = ~I don't think so.~ [zgnlinj_]   ///  cd_breaking_pt #j_
+@1125 = ~Hey there dear, how's it going?~ [zgnlinf]    ///  cd_common1 #f
+@1126 = ~Not feeling very talkative today, dear?~ [zgnling]    ///  cd_common2 #g
+@1127 = ~And who might you be?~ [zgnlinh]    ///  cd_common3 #h
+@1128 = ~Hey there dear, what can I do for you?~ [zgnlin0]    ///  cd_common4 #0
+@1129 = ~Greetings and well met.~ [zgnlink_]   ///  cd_common5 #k_
+@1130 = ~Hello there.~ [zgnlinl_]   ///  cd_common6 #l_
+@1132 = ~Yes. All right!~ [zgnlinz]    ///  cd_criticalhit #z
+@1133 = ~Takasi! Oh, excuse my elven.~ [zgnlin1]    ///  cd_criticalmiss #1 (number)
+@1134 = ~Ah!~ [zgnlinl]    ///  cd_damage #l (letter)
+@1135 = ~Ah!~ [zgnlinn_]   ///  cd_damage2 #n_
+@1136 = ~Uh!~ [zgnlino_]   ///  cd_damage3 #o_
+@1138 = ~I can't cast spells with all of this going on.~ [zgnlin6]    ///  cd_disrupted #6
+@1140 = ~Aaaaagh!~ [zgnlinm]    ///  cd_dying #m
+@1141 = ~I think I see the goddess's face. I don't want to go yet.~ [zgnlinp_]   ///  cd_dying2 #p_
+@1143 = ~I'll miss you, dear one.~ [zgnlinw]    ///  cd_gen_death #w
+@1145 = ~I couldn't ask for a better friend.~ [zgnlinr_]   ///  cd_happy #r_
+@1146 = ~I can't seem to stop my bleeding.~ [zgnline]    ///  cd_hurt #e
+@1147 = ~Why is everything spinning?~ [zgnlins_]   ///  cd_hurt2 #s_
+@1148 = ~My weapon just bounces right off.~ [zgnlin2]    ///  cd_immune #2
+@1149 = ~Either my arms have suddenly lost strength, or I'm carrying too much.~ [zgnlin3]    ///  cd_inventory #3
+@1150 = ~We'd better close ranks before we get hit.~ [zgnlinb]    ///  cd_leader #b
+@1152 = ~I'm a bit overmatched here.~ [zgnlinu_]   ///  cd_morale_break #u_
+@1155 = ~Thank you.~ [zgnlin4]    ///  cd_pickpocket #4
+@1164 = ~Hey, could we make a little less noise here please.~ [zgnlin5]    ///  cd_shadows #5
+@1165 = ~On a journey there must always be time to rest.~ [zgnlinc]    ///  cd_tired #c
+@1166 = ~Let's spend a little time and check this place out.~ [zgnlin4_]   ///  cd_tired2 #4_
+@1167 = ~I'm going to try something; cover me.~ [zgnlin7]    ///  cd_trap #7
+@1169 = ~Did you think that through, or are you just grasping at straws?~ [zgnlin5_]   ///  cd_unhappy_2 #6_
+
+
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
