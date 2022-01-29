@@ -89,7 +89,6 @@ LAF cd_add_soundset
     cd_shadows            = RESOLVE_STR_REF(@164) //  5
     cd_tired1             = RESOLVE_STR_REF(@165) //  c
     cd_trap               = RESOLVE_STR_REF(@167) //  7
-    cd_unhappy_1          = RESOLVE_STR_REF(@168) //  5_ (unofficial)
     cd_unhappy_2          = RESOLVE_STR_REF(@169) //  6_ (unofficial)
   STR_VAR cd_name = "ZGNSHB"
 END
@@ -179,7 +178,6 @@ LAF cd_add_soundset
     cd_pickpocket         = RESOLVE_STR_REF(@355) //  4
     cd_shadows            = RESOLVE_STR_REF(@364) //  5
     cd_tired1             = RESOLVE_STR_REF(@365) //  c
-    cd_unhappy_1          = RESOLVE_STR_REF(@368) //  5_ (unofficial)
     cd_unhappy_2          = RESOLVE_STR_REF(@369) //  6_ (unofficial)
   STR_VAR cd_name = "ZGNARI"
 END
@@ -299,7 +297,6 @@ LAF cd_add_soundset
     cd_shadows            = RESOLVE_STR_REF(@664) //  5
     cd_tired1             = RESOLVE_STR_REF(@665) //  c
     cd_trap               = RESOLVE_STR_REF(@667) //  7
-    cd_unhappy_1          = RESOLVE_STR_REF(@668) //  5_ (unofficial)
     cd_unhappy_2          = RESOLVE_STR_REF(@669) //  6_ (unofficial)
   STR_VAR cd_name = "ZGN2RE"
 END

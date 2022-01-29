@@ -50,7 +50,6 @@
 @164 = ~Time to fade into the background, hmm?~ [zgnshb5]    ///  cd_shadows #5
 @165 = ~I need to sit down, just for a bit. ~ [zgnshbc]    ///  cd_tired #c
 @167 = ~Finished.~ [zgnshb7]    ///  cd_trap #7
-@168 = ~Hmmm... I don't know...~ [zgnshb5_]   ///  cd_unhappy_1 #5_
 @169 = ~Hmmm... I don't know...~ [zgnshb5_]   ///  cd_unhappy_2 #6_
 
 @200 = ~NWN: Sharwyn (TWD)~
@@ -128,7 +127,6 @@
 @355 = ~Ahem.~ [zgnari4]    ///  cd_pickpocket #4
 @364 = ~Shush!~ [zgnari5]    ///  cd_shadows #5
 @365 = ~My sword is edged with belief, but it is my arm that must still swing it.~ [zgnaric]    ///  cd_tired #c
-@368 = ~Guard your tone and actions, I will answer with true justice if I have to!~ [zgnari5_]   ///  cd_unhappy_1 #5_
 @369 = ~Guard your tone and actions, I will answer with true justice if I have to!~ [zgnari5_]  ///  cd_unhappy_2 #6_
 
 @400 = ~NWN: Male, Brash Persistent (TWD)~
@@ -230,7 +228,6 @@
 @664 = ~Let the shadows conceal you, and quickly.~ [zgn2re5]    ///  cd_shadows #5
 @665 = ~I think some well-deserved rest is in order.~ [zgn2rec]    ///  cd_tired #c
 @667 = ~I need a bit of room.~ [zgn2re7]    ///  cd_trap #7
-@668 = ~Do not pressure me further! I will do as I must!~ [zgn2re5_]   ///  cd_unhappy_1 #5_
 @669 = ~Do not pressure me further! I will do as I must!~ [zgn2re5_]   ///  cd_unhappy_2 #6_
 
 @700 = ~NWN: Female, Feisty (SOU)~
