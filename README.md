@@ -24,6 +24,8 @@ Adds the following characters:
  - Linu La'neral (TWD)
  - Linu La'neral (HOTU)
  - Boddyknock Glinckle (TWD)
+ - Female, Berserker (SOU)
+ - Male, High-strung Evangelist (TWD)
 
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).
