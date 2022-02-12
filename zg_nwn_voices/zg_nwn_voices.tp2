@@ -684,7 +684,6 @@ END
 
 // Male, Sociopath (SOU)
 
-
   LAF cd_add_soundset
     INT_VAR
       cd_select_name        = RESOLVE_STR_REF(@1600) //  name
@@ -722,7 +721,7 @@ END
       cd_pickpocket         = RESOLVE_STR_REF(@1655) //  4
       cd_shadows            = RESOLVE_STR_REF(@1664) //  5
       cd_tired1             = RESOLVE_STR_REF(@1665) //  c
-    STR_VAR cd_name = "ZGN1SO"
+    STR_VAR cd_name = "ZGN2SO"
   END
 
 
