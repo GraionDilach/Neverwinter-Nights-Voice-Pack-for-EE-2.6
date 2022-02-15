@@ -110,6 +110,7 @@
 @327 = ~Is there something else I can help you with?~ [zgnarih]    ///  cd_common3 #h
 @328 = ~What can I do for you, then?~ [zgnari0]    ///  cd_common4 #0
 @329 = ~My blade is yours, as is my knowledge.~ [zgnarik_]   ///  cd_common5 #k_
+@330 = ~Listen to me here.~ [zgnaril_]   ///  cd_common6 #l_
 @332 = ~Ha-ha-ha!~ [zgnariz]    ///  cd_criticalhit #z
 @333 = ~No!~ [zgnari1]    ///  cd_criticalmiss #1 (number)
 @334 = ~Nuh!~ [zgnaril]    ///  cd_damage #l (letter)
