@@ -635,8 +635,44 @@
 @1764 = ~I will become one with the shadows.~ [zgnnat5]    ///  cd_shadows #5
 @1765 = ~We should rest and recuperate.~ [zgnnatc]    ///  cd_tired #c
 
-
-
+@1800 = ~NWN: Malthia Drammar (SOU)~
+@1801 = ~Of course I can do that!~ [zgnmali]    ///  cd_action1 #i
+@1802 = ~It's done.~ [zgnmalj]    ///  cd_action2 #j
+@1803 = ~That's a splendid idea.~ [zgnmalk]    ///  cd_action3 #k
+@1804 = ~Yes, of course.~ [zgnmals]    ///  cd_action4 #s
+@1816 = ~My art will bring you low.~ [zgnmala]    ///  cd_battlecry1 #a
+@1817 = ~You will rue the day you invited my attack!~ [zgnmal8]    ///  cd_battlecry2 #8
+@1818 = ~Prepare to face the judgement of Mystra!~ [zgnmal9]    ///  cd_battlecry3 #9
+@1819 = ~Trust in Mystra and bring them down!~ [zgnmalg_]   ///  cd_battlecry4 #g_
+@1820 = ~I don't believe that you are worth my time.~ [zgnmalh_]   ///  cd_battlecry5 #h_
+@1821 = ~Well, this is special.~ [zgnmald]    ///  cd_bored #d
+@1825 = ~Yes, hello.~ [zgnmalf]    ///  cd_common1 #f
+@1826 = ~Stop and listen to me.~ [zgnmalg]    ///  cd_common2 #g
+@1827 = ~Yes?~ [zgnmalh]    ///  cd_common3 #h
+@1828 = ~I must speak with you at once.~ [zgnmal0]    ///  cd_common4 #0
+@1829 = ~*sigh* How may I assist you?~ [zgnmalk_]   ///  cd_common5 #k_
+@1830 = ~What do you want?~ [zgnmall_]   ///  cd_common6 #l_
+@1832 = ~Hahahaha! Hahaha!~ [zgnmalz]    ///  cd_criticalhit #z
+@1833 = ~Shar take you!~ [zgnmal1]    ///  cd_criticalmiss #1 (number)
+@1834 = ~Ongh!~ [zgnmall]    ///  cd_damage #l (letter)
+@1835 = ~Ungh!~ [zgnmaln_]   ///  cd_damage2 #n_
+@1836 = ~A-aah!~ [zgnmalo_]   ///  cd_damage3 #o_
+@1838 = ~What? What just happened - that's inconceivable!~ [zgnmal6]    ///  cd_disrupted #6
+@1840 = ~Aa-aaaaah!~ [zgnmalm]    ///  cd_dying #m
+@1843 = ~That was dreadful!~ [zgnmalw]    ///  cd_gen_death #w
+@1844 = ~Oh no...~ [zgnmalq_]   ///  cd_gen_death2 #q_
+@1846 = ~Mystra, send your healing power to me!~ [zgnmale]    ///  cd_hurt #e
+@1847 = ~Mystra, take them, not me!~ [zgnmals_]   ///  cd_hurt2 #s_
+@1848 = ~Well, this is what happens when you don't use magic.~ [zgnmal2]    ///  cd_immune #2
+@1849 = ~This is too much weight! Aren't there hirelings to carry these things for us?~ [zgnmal3]    ///  cd_inventory #3
+@1850 = ~Oh, for heavens' sake, follow me.~ [zgnmalb]    ///  cd_leader #b
+@1851 = ~Quick, hurry, protect me!~ [zgnmalt_]   ///  cd_leader2 #t_
+@1852 = ~Oh goddess! We're all going to die!~ [zgnmalu_]   ///  cd_morale_break #u_
+@1853 = ~We have to get out of here!~ [zgnmalv_]   ///  cd_morale_break2 #v_
+@1855 = ~I think perhaps I should take that. For safekeeping.~ [zgnmal4]    ///  cd_pickpocket #4
+@1864 = ~Do I have to waste an invisibility spell, or do you think you can manage to stay hidden?~ [zgnmal5]    ///  cd_shadows #5
+@1865 = ~Isn't this enough for one day? I need to refresh my spells.~ [zgnmalc]    ///  cd_tired #c
+@1866 = ~*sigh* I don't believe you properly appreciate the sacrifices I am making to help you!~ [zgnmal4_]   ///  cd_tired2 #4_
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
