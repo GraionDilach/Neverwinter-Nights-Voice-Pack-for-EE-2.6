@@ -707,6 +707,37 @@
 @1964 = ~Now we move without a sound.~ [zgn1he5]    ///  cd_shadows #5
 @1965 = ~We should rest and recuperate.~ [zgn1hec]    ///  cd_tired #c
 
+@2000 = ~NWN: Male, Mature Swashbuckler (TWD)~
+@2001 = ~No problem.~ [zgn2msi]    ///  cd_action1 #i
+@2002 = ~Done and done.~ [zgn2msj]    ///  cd_action2 #j
+@2003 = ~I would say yes.~ [zgn2msk]    ///  cd_action3 #k
+@2004 = ~That's not a bad idea.~ [zgn2mss]    ///  cd_action4 #s
+@2016 = ~To the fight, my friends! Attack!~ [zgn2msa]    ///  cd_battlecry1 #a
+@2017 = ~Yes, fight with all your skill!~ [zgn2ms8]    ///  cd_battlecry2 #8
+@2018 = ~That's it for you! Take that!~ [zgn2ms9]    ///  cd_battlecry3 #9
+@2019 = ~Have at thee!~ [zgn2msg_]   ///  cd_battlecry4 #g_
+@2020 = ~This way then! Here! Come on!~ [zgn2msh_]   ///  cd_battlecry5 #h_
+@2021 = ~Will we chatter the day away? Fortunes are calling!~ [zgn2msd]    ///  cd_bored #d
+@2025 = ~Yeah?~ [zgn2msf]    ///  cd_common1 #f
+@2026 = ~Well met, friend.~ [zgn2msg]    ///  cd_common2 #g
+@2027 = ~Listen up. I've gotta say something here.~ [zgn2msh]    ///  cd_common3 #h
+@2032 = ~Ah-ha! Hahahaha!~ [zgn2msz]    ///  cd_criticalhit #z
+@2033 = ~By all the hells!~ [zgn2ms1]    ///  cd_criticalmiss #1 (number)
+@2034 = ~Ungh!~ [zgn2msl]    ///  cd_damage #l (letter)
+@2035 = ~Uh!~ [zgn2msn_]   ///  cd_damage2 #n_
+@2036 = ~Ah!~ [zgn2mso_]   ///  cd_damage3 #o_
+@2038 = ~Well that figures. My spell failed.~ [zgn2ms6]    ///  cd_disrupted #6
+@2040 = ~Urrrrgh!~ [zgn2msm]    ///  cd_dying #m
+@2046 = ~I... I'm in need of a healer's touch... Tend to me.~ [zgn2mse]    ///  cd_hurt #e
+@2047 = ~I'm not going to last much longer...~ [zgn2mss_]   ///  cd_hurt2 #s_
+@2048 = ~I can't even make a scratch!~ [zgn2ms2]    ///  cd_immune #2
+@2049 = ~Whoa, someone take some of this load, will you?~ [zgn2ms3]    ///  cd_inventory #3
+@2050 = ~Get in line. Follow me.~ [zgn2msb]    ///  cd_leader #b
+@2051 = ~Defend me, if you will.~ [zgn2mst_]   ///  cd_leader2 #t_
+@2052 = ~This fight is lost! Time to go!~ [zgn2msu_]   ///  cd_morale_break #u_
+@2055 = ~Well, have a look at this...~ [zgn2ms4]    ///  cd_pickpocket #4
+@2064 = ~Get out of sight!~ [zgn2ms5]    ///  cd_shadows #5
+@2065 = ~Time for some well earned rest, I think.~ [zgn2msc]    ///  cd_tired #c
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
