@@ -1,6 +1,6 @@
 BACKUP ~zg_nwn_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008"
-VERSION ~0.1.1~
+VERSION ~0.2.0~
 
 
 LANGUAGE ~English~ ~english~ ~zg_nwn_voices/english/setup.tra~
@@ -843,7 +843,6 @@ LAF cd_add_soundset
     cd_damage3            = RESOLVE_STR_REF(@1936) //  o_ (unofficial)
     cd_disrupted          = RESOLVE_STR_REF(@1938) //  6
     cd_dying1             = RESOLVE_STR_REF(@1940) //  m
-    cd_happy              = RESOLVE_STR_REF(@1945) //  r_ (unofficial)
     cd_hurt1              = RESOLVE_STR_REF(@1946) //  e
     cd_hurt2              = RESOLVE_STR_REF(@1947) //  s_
     cd_immune             = RESOLVE_STR_REF(@1948) //  2

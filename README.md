@@ -7,6 +7,21 @@ This mod adds Neverwinter Nights voicesets as selectable player voicesets to the
 Due to inconsistency between individual voicesets in the source games, and the differences between voiceset systems, not every voiceset covers every role. Campaign-banter responses are used to pad sets where possible. Discrepancies between characters are commonplace.
 
 ## Version history
+### 0.2.0
+Fixes: typo on an Aribeth select response.
+
+Adds the following characters:
+ - Male, Sociopath (SOU)
+ - Nathyrra (HOTU)
+ - Malthia Drammar (SOU)
+ - Female, Healer (HOTU)
+ - Male, Mature Swashbuckler (TWD)
+ - Female, Seductress (TWD)
+ - Female, Adventurer (HOTU)
+ - Daelan Red Tiger (TWD)
+ - Daelan Red Tiger (HOTU)
+ - Male, Boisterous Goodnatured (TWD)
+
 ### 0.1.0
 Initial release.
 
