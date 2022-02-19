@@ -773,6 +773,42 @@
 @2164 = ~Get out of sight. Duck into the shadows.~ [zgn1se5]    ///  cd_shadows #5
 @2165 = ~I'm so tired. Can't we just lie down for a moment?~ [zgn1sec]    ///  cd_tired #c
 
+@2200 = ~NWN: Female, Adventurer (HOTU)~
+@2201 = ~Alright.~ [zgn1adi]    ///  cd_action1 #i
+@2202 = ~It's finished.~ [zgn1adj]    ///  cd_action2 #j
+@2203 = ~Indeed.~ [zgn1adk]    ///  cd_action3 #k
+@2204 = ~Bloody brilliant!~ [zgn1ads]    ///  cd_action4 #s
+@2205 = ~Follow me!~ [zgn1adt]    ///  cd_action5 #t
+@2206 = ~I'll take a look at that.~ [zgn1adu]    ///  cd_action6 #u
+@2207 = ~I'll keep an eye out.~ [zgn1adv]    ///  cd_action7 #v
+@2216 = ~Watch out!~ [zgn1ada]    ///  cd_battlecry1 #a
+@2217 = ~Take that!~ [zgn1ad8]    ///  cd_battlecry2 #8
+@2218 = ~For glory!~ [zgn1ad9]    ///  cd_battlecry3 #9
+@2219 = ~I shall be victorious!~ [zgn1adg_]   ///  cd_battlecry4 #g_
+@2220 = ~You are nothing, nothing at all!~ [zgn1adh_]   ///  cd_battlecry5 #h_
+@2221 = ~We're going to do something soon, I hope?~ [zgn1add]    ///  cd_bored #d
+@2225 = ~Mmm?~ [zgn1adf]    ///  cd_common1 #f
+@2226 = ~Greetings.~ [zgn1adg]    ///  cd_common2 #g
+@2227 = ~I wish to speak.~ [zgn1adh]    ///  cd_common3 #h
+@2232 = ~Ha! Well done!~ [zgn1adz]    ///  cd_criticalhit #z
+@2233 = ~Blast!~ [zgn1ad1]    ///  cd_criticalmiss #1 (number)
+@2234 = ~Uff!~ [zgn1adl]    ///  cd_damage #l (letter)
+@2235 = ~Ah!~ [zgn1adn_]   ///  cd_damage2 #n_
+@2236 = ~Unh!~ [zgn1ado_]   ///  cd_damage3 #o_
+@2238 = ~My spell has failed!~ [zgn1ad6]    ///  cd_disrupted #6
+@2240 = ~Hhhhh... ahhhhh...~ [zgn1adm]    ///  cd_dying #m
+@2246 = ~I need healing!~ [zgn1ade]    ///  cd_hurt #e
+@2247 = ~No! It cannot end like this!~ [zgn1ads_]   ///  cd_hurt2 #s_
+@2248 = ~My weapon is of no use!~ [zgn1ad2]    ///  cd_immune #2
+@2249 = ~Enough! I can carry no more.~ [zgn1ad3]    ///  cd_inventory #3
+@2250 = ~Come with me.~ [zgn1adb]    ///  cd_leader #b
+@2251 = ~Protect me!~ [zgn1adt_]   ///  cd_leader2 #t_
+@2252 = ~We must run!~ [zgn1adu_]   ///  cd_morale_break #u_
+@2255 = ~You have my thanks.~ [zgn1ad4]    ///  cd_pickpocket #4
+@2264 = ~Like a shadow.~ [zgn1ad5]    ///  cd_shadows #5
+@2265 = ~I need to rest, just for a moment.~ [zgn1adc]    ///  cd_tired #c
+
+
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
 /// @02 = ~~ [zgnj]    ///  cd_action2 #j
