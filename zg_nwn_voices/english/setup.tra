@@ -897,6 +897,37 @@
 @2465 = ~Perhaps we could rest now.~ [zgndafc]    ///  cd_tired #c
 @2469 = ~Beware lest you incur my wrath.~ [zgndaf6_]   ///  cd_unhappy_2 #6_
 
+@2500 = ~NWN: Male, Boisterous Goodnatured (TWD)~
+@2501 = ~I can do that.~ [zgn2boi]    ///  cd_action1 #i
+@2502 = ~The task is done.~ [zgn2boj]    ///  cd_action2 #j
+@2503 = ~I believe so.~ [zgn2bok]    ///  cd_action3 #k
+@2504 = ~That's a fine idea.~ [zgn2bos]    ///  cd_action4 #s
+@2516 = ~To your weapons, and don't let up! Attack!~ [zgn2boa]    ///  cd_battlecry1 #a
+@2517 = ~Let's have at it!~ [zgn2bo8]    ///  cd_battlecry2 #8
+@2518 = ~Time for a bit of the game!~ [zgn2bo9]    ///  cd_battlecry3 #9
+@2519 = ~Rraaaghh!~ [zgn2bog_]   ///  cd_battlecry4 #g_
+@2520 = ~Why don't you come have a try at me!~ [zgn2boh_]   ///  cd_battlecry5 #h_
+@2521 = ~This is a boring bit of business.~ [zgn2bod]    ///  cd_bored #d
+@2525 = ~Well now, what do you want?~ [zgn2bof]    ///  cd_common1 #f
+@2526 = ~Well, hello to you.~ [zgn2bog]    ///  cd_common2 #g
+@2527 = ~Give a listen here. I need to speak.~ [zgn2boh]    ///  cd_common3 #h
+@2532 = ~Ah-ha-ha-ha.~ [zgn2boz]    ///  cd_criticalhit #z
+@2533 = ~Damnation!~ [zgn2bo1]    ///  cd_criticalmiss #1 (number)
+@2534 = ~Ohh!~ [zgn2bol]    ///  cd_damage #l (letter)
+@2535 = ~Uhh!~ [zgn2bon_]   ///  cd_damage2 #n_
+@2536 = ~Ehh!~ [zgn2boo_]   ///  cd_damage3 #o_
+@2538 = ~Blasted magics! My spell has had it.~ [zgn2bo6]    ///  cd_disrupted #6
+@2540 = ~Aaaaaoooorgh!~ [zgn2bom]    ///  cd_dying #m
+@2546 = ~Patch me up. I need healing.~ [zgn2boe]    ///  cd_hurt #e
+@2547 = ~I've life in me yet... I think.~ [zgn2bos_]   ///  cd_hurt2 #s_
+@2548 = ~What the... My weapon can't touch 'em!~ [zgn2bo2]    ///  cd_immune #2
+@2549 = ~This load is a bit of a strain.~ [zgn2bo3]    ///  cd_inventory #3
+@2550 = ~Step with me. Come on, follow along.~ [zgn2bob]    ///  cd_leader #b
+@2551 = ~Watch my back and guard well.~ [zgn2bot_]   ///  cd_leader2 #t_
+@2552 = ~This one's lost! Time to leave!~ [zgn2bou_]   ///  cd_morale_break #u_
+@2555 = ~Well, have a look here.~ [zgn2bo4]    ///  cd_pickpocket #4
+@2564 = ~Best get out of sight, and fast, too.~ [zgn2bo5]    ///  cd_shadows #5
+@2565 = ~I think a bit of a rest is in order.~ [zgn2boc]    ///  cd_tired #c
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
