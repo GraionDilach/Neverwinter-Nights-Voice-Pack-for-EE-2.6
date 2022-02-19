@@ -976,6 +976,107 @@ LAF cd_add_soundset
   STR_VAR cd_name = "ZGN1AD"
 END
 
+// Daelan Red Tiger (TWD)
+
+LAF cd_add_soundset
+  INT_VAR
+    cd_select_name        = RESOLVE_STR_REF(@2300) //  name
+    cd_action1            = RESOLVE_STR_REF(@2301) //  i
+    cd_action2            = RESOLVE_STR_REF(@2302) //  j
+    cd_action3            = RESOLVE_STR_REF(@2303) //  k
+    cd_action4            = RESOLVE_STR_REF(@2304) //  s
+    cd_action5            = RESOLVE_STR_REF(@2305) //  t
+    cd_action6            = RESOLVE_STR_REF(@2306) //  u
+    cd_battlecry1         = RESOLVE_STR_REF(@2316) //  a
+    cd_battlecry2         = RESOLVE_STR_REF(@2317) //  8
+    cd_battlecry3         = RESOLVE_STR_REF(@2318) //  9
+    cd_battlecry4         = RESOLVE_STR_REF(@2319) //  g_ (unofficial)
+    cd_battlecry5         = RESOLVE_STR_REF(@2320) //  h_ (unofficial)
+    cd_bored1             = RESOLVE_STR_REF(@2321) //  d
+    cd_breaking_pt        = RESOLVE_STR_REF(@2323) //  j_ (unofficial)
+    cd_common1            = RESOLVE_STR_REF(@2325) //  f
+    cd_common2            = RESOLVE_STR_REF(@2326) //  g
+    cd_common3            = RESOLVE_STR_REF(@2327) //  h
+    cd_common4            = RESOLVE_STR_REF(@2328) //  0
+    cd_common5            = RESOLVE_STR_REF(@2329) //  k_ (unofficial)
+    cd_common6            = RESOLVE_STR_REF(@2330) //  l_ (unofficial, letter)
+    cd_common7            = RESOLVE_STR_REF(@2331) //  m_ (unofficial)
+    cd_criticalhit        = RESOLVE_STR_REF(@2332) //  z
+    cd_criticalmiss       = RESOLVE_STR_REF(@2333) //  1  (number)
+    cd_damage1            = RESOLVE_STR_REF(@2334) //  l  (letter)
+    cd_damage2            = RESOLVE_STR_REF(@2335) //  n_ (unofficial)
+    cd_damage3            = RESOLVE_STR_REF(@2336) //  o_ (unofficial)
+    cd_disrupted          = RESOLVE_STR_REF(@2338) //  6
+    cd_dying1             = RESOLVE_STR_REF(@2340) //  m
+    cd_happy              = RESOLVE_STR_REF(@2345) //  r_ (unofficial)
+    cd_hurt1              = RESOLVE_STR_REF(@2346) //  e
+    cd_hurt2              = RESOLVE_STR_REF(@2347) //  s_
+    cd_immune             = RESOLVE_STR_REF(@2348) //  2
+    cd_inventory          = RESOLVE_STR_REF(@2349) //  3
+    cd_leader1            = RESOLVE_STR_REF(@2350) //  b
+    cd_leader2            = RESOLVE_STR_REF(@2351) //  t_ (unofficial)
+    cd_morale_break1      = RESOLVE_STR_REF(@2352) //  u_ (unofficial)
+    cd_pickpocket         = RESOLVE_STR_REF(@2355) //  4
+    cd_shadows            = RESOLVE_STR_REF(@2364) //  5
+    cd_tired1             = RESOLVE_STR_REF(@2365) //  c
+    cd_unhappy_2          = RESOLVE_STR_REF(@2369) //  6_ (unofficial)
+  STR_VAR cd_name = "ZGNDAE"
+END
+
+// Daelan Red Tiger (HOTU)
+
+LAF cd_add_soundset
+  INT_VAR
+    cd_select_name        = RESOLVE_STR_REF(@2400) //  name
+    cd_action1            = RESOLVE_STR_REF(@2401) //  i
+    cd_action2            = RESOLVE_STR_REF(@2402) //  j
+    cd_action3            = RESOLVE_STR_REF(@2403) //  k
+    cd_action4            = RESOLVE_STR_REF(@2404) //  s
+    cd_action5            = RESOLVE_STR_REF(@2405) //  t
+    cd_action6            = RESOLVE_STR_REF(@2406) //  u
+    cd_battlecry1         = RESOLVE_STR_REF(@2416) //  a
+    cd_battlecry2         = RESOLVE_STR_REF(@2417) //  8
+    cd_battlecry3         = RESOLVE_STR_REF(@2418) //  9
+    cd_battlecry4         = RESOLVE_STR_REF(@2419) //  g_ (unofficial)
+    cd_battlecry5         = RESOLVE_STR_REF(@2420) //  h_ (unofficial)
+    cd_bored1             = RESOLVE_STR_REF(@2421) //  d
+    cd_bored2             = RESOLVE_STR_REF(@2422) //  i_ (unofficial)
+    cd_breaking_pt        = RESOLVE_STR_REF(@2423) //  j_ (unofficial)
+    cd_city               = RESOLVE_STR_REF(@2424) //  o
+    cd_common1            = RESOLVE_STR_REF(@2425) //  f
+    cd_common2            = RESOLVE_STR_REF(@2426) //  g
+    cd_common3            = RESOLVE_STR_REF(@2427) //  h
+    cd_common4            = RESOLVE_STR_REF(@2428) //  0
+    cd_common5            = RESOLVE_STR_REF(@2429) //  k_ (unofficial)
+    cd_common6            = RESOLVE_STR_REF(@2430) //  l_ (unofficial, letter)
+    cd_common7            = RESOLVE_STR_REF(@2431) //  m_ (unofficial)
+    cd_criticalhit        = RESOLVE_STR_REF(@2432) //  z
+    cd_criticalmiss       = RESOLVE_STR_REF(@2433) //  1  (number)
+    cd_damage1            = RESOLVE_STR_REF(@2434) //  l  (letter)
+    cd_damage2            = RESOLVE_STR_REF(@2435) //  n_ (unofficial)
+    cd_damage3            = RESOLVE_STR_REF(@2436) //  o_ (unofficial)
+    cd_day                = RESOLVE_STR_REF(@2437) //  q
+    cd_disrupted          = RESOLVE_STR_REF(@2438) //  6
+    cd_dungeon            = RESOLVE_STR_REF(@2439) //  p
+    cd_dying1             = RESOLVE_STR_REF(@2440) //  m
+    cd_forest             = RESOLVE_STR_REF(@2442) //  n
+    cd_gen_death1         = RESOLVE_STR_REF(@2443) //  w
+    cd_happy              = RESOLVE_STR_REF(@2445) //  r_ (unofficial)
+    cd_hurt1              = RESOLVE_STR_REF(@2446) //  e
+    cd_hurt2              = RESOLVE_STR_REF(@2447) //  s_
+    cd_immune             = RESOLVE_STR_REF(@2448) //  2
+    cd_inventory          = RESOLVE_STR_REF(@2449) //  3
+    cd_leader1            = RESOLVE_STR_REF(@2450) //  b
+    cd_leader2            = RESOLVE_STR_REF(@2451) //  t_ (unofficial)
+    cd_morale_break1      = RESOLVE_STR_REF(@2452) //  u_ (unofficial)
+    cd_night              = RESOLVE_STR_REF(@2454) //  r
+    cd_pickpocket         = RESOLVE_STR_REF(@2455) //  4
+    cd_shadows            = RESOLVE_STR_REF(@2464) //  5
+    cd_tired1             = RESOLVE_STR_REF(@2465) //  c
+    cd_unhappy_2          = RESOLVE_STR_REF(@2469) //  6_ (unofficial)
+  STR_VAR cd_name = "ZGNDAF"
+END
+
 /// LAF cd_add_soundset
 ///   INT_VAR
 ///     cd_select_name        = RESOLVE_STR_REF(@00) //  name
