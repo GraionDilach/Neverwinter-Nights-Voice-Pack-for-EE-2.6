@@ -1,6 +1,6 @@
 BACKUP ~zg_nwn_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008"
-VERSION ~0.2.0~
+VERSION ~0.2.1~
 
 
 LANGUAGE ~English~ ~english~ ~zg_nwn_voices/english/setup.tra~
@@ -32,7 +32,7 @@ COPY ~%MOD_FOLDER%/override~    ~override~
 // 1XX female sets
 // 2XX male sets
 // NPCs use all three chars for their shortname, even if this mixes them together
-// NWN2 reused all of the NWN1 PC sets to this makes sense
+// NWN2 reused all of the NWN1 PC sets so this makes sense
 
 // Sharwyn (HOTU)
 // gj Skitia for using this as Emily's placeholder, sole reason I started this
@@ -1112,6 +1112,44 @@ LAF cd_add_soundset
     cd_shadows            = RESOLVE_STR_REF(@2564) //  5
     cd_tired1             = RESOLVE_STR_REF(@2565) //  c
   STR_VAR cd_name = "ZGN2BO"
+END
+
+// Female, Rogue (HOTU)
+
+LAF cd_add_soundset
+  INT_VAR
+    cd_select_name        = RESOLVE_STR_REF(@2600) //  name
+    cd_action1            = RESOLVE_STR_REF(@2601) //  i
+    cd_action2            = RESOLVE_STR_REF(@2602) //  j
+    cd_action3            = RESOLVE_STR_REF(@2603) //  k
+    cd_action4            = RESOLVE_STR_REF(@2604) //  s
+    cd_battlecry1         = RESOLVE_STR_REF(@2616) //  a
+    cd_battlecry2         = RESOLVE_STR_REF(@2617) //  8
+    cd_battlecry3         = RESOLVE_STR_REF(@2618) //  9
+    cd_battlecry4         = RESOLVE_STR_REF(@2619) //  g_ (unofficial)
+    cd_battlecry5         = RESOLVE_STR_REF(@2620) //  h_ (unofficial)
+    cd_bored1             = RESOLVE_STR_REF(@2621) //  d
+    cd_common1            = RESOLVE_STR_REF(@2625) //  f
+    cd_common2            = RESOLVE_STR_REF(@2626) //  g
+    cd_common3            = RESOLVE_STR_REF(@2627) //  h
+    cd_criticalhit        = RESOLVE_STR_REF(@2632) //  z
+    cd_criticalmiss       = RESOLVE_STR_REF(@2633) //  1  (number)
+    cd_damage1            = RESOLVE_STR_REF(@2634) //  l  (letter)
+    cd_damage2            = RESOLVE_STR_REF(@2635) //  n_ (unofficial)
+    cd_damage3            = RESOLVE_STR_REF(@2636) //  o_ (unofficial)
+    cd_disrupted          = RESOLVE_STR_REF(@2638) //  6
+    cd_dying1             = RESOLVE_STR_REF(@2640) //  m
+    cd_hurt1              = RESOLVE_STR_REF(@2646) //  e
+    cd_hurt2              = RESOLVE_STR_REF(@2647) //  s_
+    cd_immune             = RESOLVE_STR_REF(@2648) //  2
+    cd_inventory          = RESOLVE_STR_REF(@2649) //  3
+    cd_leader1            = RESOLVE_STR_REF(@2650) //  b
+    cd_leader2            = RESOLVE_STR_REF(@2651) //  t_ (unofficial)
+    cd_morale_break1      = RESOLVE_STR_REF(@2652) //  u_ (unofficial)
+    cd_pickpocket         = RESOLVE_STR_REF(@2655) //  4
+    cd_shadows            = RESOLVE_STR_REF(@2664) //  5
+    cd_tired1             = RESOLVE_STR_REF(@2665) //  c
+  STR_VAR cd_name = "ZGN1RO"
 END
 
 /// LAF cd_add_soundset
