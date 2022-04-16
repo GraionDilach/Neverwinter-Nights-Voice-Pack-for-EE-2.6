@@ -1040,6 +1040,50 @@
 @2865 = ~I am so bushed, you have no idea.~ [zgntomc]    ///  cd_tired #c
 @2867 = ~E-he-he-he.~ [zgntom7]    ///  cd_trap #7
 
+@2900 = ~NWN: Aribeth, Blackguard (HOTU)~
+@2901 = ~It can be done.~ [zgnarji]    ///  cd_action1 #i
+@2902 = ~There, it's done.~ [zgnarjj]    ///  cd_action2 #j
+@2903 = ~Perhaps.~ [zgnarjk]    ///  cd_action3 #k
+@2904 = ~Let's do it.~ [zgnarjs]    ///  cd_action4 #s
+@2905 = ~Hmph. If you say so...~ [zgnarjt]    ///  cd_action5 #t
+@2916 = ~Kill them all!~ [zgnarja]    ///  cd_battlecry1 #a
+@2917 = ~May the darkness claim you!~ [zgnarj8]    ///  cd_battlecry2 #8
+@2918 = ~I will drain you!~ [zgnarj9]    ///  cd_battlecry3 #9
+@2919 = ~Death to you all!~ [zgnarjg_]   ///  cd_battlecry4 #g_
+@2920 = ~You dare to face me? Then let it be your doom!~ [zgnarjh_]   ///  cd_battlecry5 #h_
+@2921 = ~The hourglass empties yet we do nothing.~ [zgnarjd]    ///  cd_bored #d
+@2922 = ~I'm beginning to lose track of time.~ [zgnarji_]   ///  cd_bored2 #i_
+@2925 = ~What is it?~ [zgnarjf]    ///  cd_common1 #f
+@2926 = ~What now?~ [zgnarjg]    ///  cd_common2 #g
+@2927 = ~Lend me your ear!~ [zgnarjh]    ///  cd_common3 #h
+@2928 = ~What is it that you want of me?~ [zgnarj0]    ///  cd_common4 #0
+@2929 = ~Our victims await.~ [zgnarjk_]   ///  cd_common5 #k_
+@2930 = ~What are you plotting now?~ [zgnarjl_]   ///  cd_common6 #l_
+@2931 = ~Have you finally come to your senses and realized you have need of me?~ [zgnarjm_]   ///  cd_common7 #m_
+@2932 = ~A-ha-ha-ha-ha-haa.~ [zgnarjz]    ///  cd_criticalhit #z
+@2933 = ~Tyr's folly!~ [zgnarj1]    ///  cd_criticalmiss #1 (number)
+@2934 = ~Ah!~ [zgnarjl]    ///  cd_damage #l (letter)
+@2935 = ~Uh!~ [zgnarjn_]   ///  cd_damage2 #n_
+@2936 = ~Ouh!~ [zgnarjo_]   ///  cd_damage3 #o_
+@2937 = ~If there's one thing I hate, it's this ceaseless daylight.~ [zgnarjq]    ///  cd_day #q
+@2938 = ~Nothing!~ [zgnarj6]    ///  cd_disrupted #6
+@2939 = ~My blade hungers. Surely there must be another battle close by.~ [zgnarjp]    ///  cd_dungeon #p
+@2940 = ~Hnnngh! Aahhhh...~ [zgnarjm]    ///  cd_dying #m
+@2946 = ~Now! I need healing!~ [zgnarje]    ///  cd_hurt #e
+@2947 = ~My spirit fades...~ [zgnarjs_]   ///  cd_hurt2 #s_
+@2948 = ~This worthless blade!~ [zgnarj2]    ///  cd_immune #2
+@2949 = ~I am not your pack mule.~ [zgnarj3]    ///  cd_inventory #3
+@2950 = ~I suggest you follow.~ [zgnarjb]    ///  cd_leader #b
+@2951 = ~Fight by my side!~ [zgnarjt_]   ///  cd_leader2 #t_
+@2952 = ~Abandon the cause and regroup!~ [zgnarju_]   ///  cd_morale_break #u_
+@2954 = ~Beware the cold. It kills the weak.~ [zgnarjr]    ///  cd_night #r
+@2955 = ~What's this?~ [zgnarj4]    ///  cd_pickpocket #4
+@2956 = ~Must you continue to torment me like this? Just leave me be.~ [zgnarjw_]   ///  cd_select_rare1 #w_
+@2957 = ~I've decided that I like the color of bloodied ice. It sets off my eyes, don't you think?~ [zgnarjx_]   ///  cd_select_rare2 #x_
+@2958 = ~If we grow hungry in the wastelands, I'm eating you first.~ [zgnarjy_]   ///  cd_select_rare3 #y_
+@2964 = ~Into the shadows!~ [zgnarj5]    ///  cd_shadows #5
+@2965 = ~How long do you intend to drive us? It's time we rest.~ [zgnarjc]    ///  cd_tired #c
+
 
 
 /// @00 = ~NWN: ~
