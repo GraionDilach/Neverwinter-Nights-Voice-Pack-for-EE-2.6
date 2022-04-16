@@ -997,6 +997,51 @@
 @2764 = ~Hey! Be more quiet!~ [zgn2du5]    ///  cd_shadows #5
 @2765 = ~Alright. Time for a little shut-eye.~ [zgn2duc]    ///  cd_tired #c
 
+@2800 = ~NWN: Tomi "Grin" Undergallows (TWD)~
+@2801 = ~Hokey-dokey!~ [zgntomi]    ///  cd_action1 #i
+@2802 = ~Aye, it's done!~ [zgntomj]    ///  cd_action2 #j
+@2803 = ~Aye!~ [zgntomk]    ///  cd_action3 #k
+@2804 = ~Wish I'd thought of that.~ [zgntoms]    ///  cd_action4 #s
+@2805 = ~Make sure I don't lose my head, eh?~ [zgntomt]    ///  cd_action5 #t
+@2806 = ~Wait a second.~ [zgntomu]    ///  cd_action6 #u
+@2816 = ~Let's have a bit of fun, shall we?~ [zgntoma]    ///  cd_battlecry1 #a
+@2817 = ~Woo-hoo!~ [zgntom8]    ///  cd_battlecry2 #8
+@2818 = ~Here comes halfling death!~ [zgntom9]    ///  cd_battlecry3 #9
+@2819 = ~I love this part!~ [zgntomg_]   ///  cd_battlecry4 #g_
+@2820 = ~Yer ugly and you smell like a rotting skunk! Hee hee!~ [zgntomh_]   ///  cd_battlecry5 #h_
+@2821 = ~*yawn*~ [zgntomd]    ///  cd_bored #d
+@2825 = ~Hullo...~ [zgntomf]    ///  cd_common1 #f
+@2826 = ~Eh? What can Tomi do for ya?~ [zgntomg]    ///  cd_common2 #g
+@2827 = ~So-ooo...~ [zgntomh]    ///  cd_common3 #h
+@2828 = ~Why, hullo there!~ [zgntom0]    ///  cd_common4 #0
+@2829 = ~Heya!~ [zgntomk_]   ///  cd_common5 #k_
+@2830 = ~Hullo there!~ [zgntoml_]   ///  cd_common6 #l_
+@2831 = ~How are ya?~ [zgntomm_]   ///  cd_common7 #m_
+@2832 = ~Yeah! At's the way!~ [zgntomz]    ///  cd_criticalhit #z
+@2833 = ~Dammit!~ [zgntom1]    ///  cd_criticalmiss #1 (number)
+@2834 = ~Uh!~ [zgntoml]    ///  cd_damage #l (letter)
+@2835 = ~Ah!~ [zgntomn_]   ///  cd_damage2 #n_
+@2836 = ~Anh!~ [zgntomo_]   ///  cd_damage3 #o_
+@2838 = ~I hate it when my spell fizzles!~ [zgntom6]    ///  cd_disrupted #6
+@2839 = ~There's gotta be something here...~ [zgntomp]    ///  cd_dungeon #p
+@2840 = ~Aaaaaagh!~ [zgntomm]    ///  cd_dying #m
+@2842 = ~Isn't the country wonderful this time of year?~ [zgntomn]    ///  cd_forest #n
+@2846 = ~Hey! Bleeding over here...~ [zgntome]    ///  cd_hurt #e
+@2847 = ~Aww, shoot, and we were doing so well!~ [zgntoms_]   ///  cd_hurt2 #s_
+@2848 = ~I ain't doing much, here...~ [zgntom2]    ///  cd_immune #2
+@2849 = ~What am I? A mule?~ [zgntom3]    ///  cd_inventory #3
+@2850 = ~Come on! Come on!~ [zgntomb]    ///  cd_leader #b
+@2851 = ~Err... maybe we should organize ourselves a bit?~ [zgntomt_]   ///  cd_leader2 #t_
+@2852 = ~This isn't working out like I thought!~ [zgntomu_]   ///  cd_morale_break #u_
+@2855 = ~Eh? What's this?~ [zgntom4]    ///  cd_pickpocket #4
+@2856 = ~Looking for a short lad to tickle your feet?~ [zgntomw_]   ///  cd_select_rare1 #w_
+@2857 = ~Would you sign my napkin? It's a bit greasy... and mind the chicken...~ [zgntomx_]   ///  cd_select_rare2 #x_
+@2864 = ~Time to slip into the shadows!~ [zgntom5]    ///  cd_shadows #5
+@2865 = ~I am so bushed, you have no idea.~ [zgntomc]    ///  cd_tired #c
+@2867 = ~E-he-he-he.~ [zgntom7]    ///  cd_trap #7
+
+
+
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
 /// @02 = ~~ [zgnj]    ///  cd_action2 #j
