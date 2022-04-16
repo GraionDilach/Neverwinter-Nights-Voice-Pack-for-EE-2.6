@@ -1084,6 +1084,43 @@
 @2964 = ~Into the shadows!~ [zgnarj5]    ///  cd_shadows #5
 @2965 = ~How long do you intend to drive us? It's time we rest.~ [zgnarjc]    ///  cd_tired #c
 
+@3000 = ~NWN: Aribeth, Paladin (HOTU)~
+@3001 = ~I can do that.~ [zgnarki]    ///  cd_action1 #i
+@3002 = ~There, that should help.~ [zgnarkj]    ///  cd_action2 #j
+@3003 = ~Of course.~ [zgnarkk]    ///  cd_action3 #k
+@3004 = ~I agree, that sounds like the wisest course of action.~ [zgnarks]    ///  cd_action4 #s
+@3005 = ~Grant us safe journeys, Tyr.~ [zgnarkt]    ///  cd_action5 #t
+@3016 = ~Lay the devils low!~ [zgnarka]    ///  cd_battlecry1 #a
+@3017 = ~For the glory of Tyr!~ [zgnark8]    ///  cd_battlecry2 #8
+@3018 = ~An end to this evil!~ [zgnark9]    ///  cd_battlecry3 #9
+@3019 = ~There lies the foe!~ [zgnarkg_]   ///  cd_battlecry4 #g_
+@3020 = ~You cannot harm me!~ [zgnarkh_]   ///  cd_battlecry5 #h_
+@3021 = ~Time is not on our side. Let us not waste what little we have.~ [zgnarkd]    ///  cd_bored #d
+@3025 = ~How can I help?~ [zgnarkf]    ///  cd_common1 #f
+@3026 = ~Welcome.~ [zgnarkg]    ///  cd_common2 #g
+@3027 = ~May I have leave to speak?~ [zgnarkh]    ///  cd_common3 #h
+@3028 = ~Yes? What is it?~ [zgnark0]    ///  cd_common4 #0
+@3029 = ~Is there any way I can help?~ [zgnarkk_]   ///  cd_common5 #k_
+@3032 = ~All praise to Tyr!~ [zgnarkz]    ///  cd_criticalhit #z
+@3033 = ~By the hells!~ [zgnark1]    ///  cd_criticalmiss #1 (number)
+@3034 = ~Ah!~ [zgnarkl]    ///  cd_damage #l (letter)
+@3035 = ~Uh!~ [zgnarkn_]   ///  cd_damage2 #n_
+@3036 = ~Ouh!~ [zgnarko_]   ///  cd_damage3 #o_
+@3038 = ~My spells, they fail me!~ [zgnark6]    ///  cd_disrupted #6
+@3039 = ~The air is cold. Let us not linger out here for long.~ [zgnarkp]    ///  cd_dungeon #p
+@3040 = ~Hnnngh! Aahhhh...~ [zgnarkm]    ///  cd_dying #m
+@3043 = ~We have to keep moving.~ [zgnarkw]    ///  cd_gen_death #w
+@3046 = ~Healers, I need your aid!~ [zgnarke]    ///  cd_hurt #e
+@3047 = ~I am not well...~ [zgnarks_]   ///  cd_hurt2 #s_
+@3048 = ~My blade rings false!~ [zgnark2]    ///  cd_immune #2
+@3049 = ~I'm sorry but I bear a heavy burden.~ [zgnark3]    ///  cd_inventory #3
+@3050 = ~Follow me, then. I shall lead the way.~ [zgnarkb]    ///  cd_leader #b
+@3051 = ~Stand guard over me! We must not fail!~ [zgnarkt_]   ///  cd_leader2 #t_
+@3052 = ~Fall back that we might take them from the flanks!~ [zgnarku_]   ///  cd_morale_break #u_
+@3054 = ~I'm beginning to lose track of time.~ [zgnarkr]    ///  cd_night #r
+@3055 = ~I'm sorry.~ [zgnark4]    ///  cd_pickpocket #4
+@3064 = ~Hide yourselves.~ [zgnark5]    ///  cd_shadows #5
+@3065 = ~If we intend to keep our health, I suggest we rest.~ [zgnarkc]    ///  cd_tired #c
 
 
 /// @00 = ~NWN: ~
