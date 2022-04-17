@@ -1379,7 +1379,40 @@
 @3764 = ~Shush! Let's creep up and catch 'em with their knickers down.~ [zgn2pr5]    ///  cd_shadows #5
 @3765 = ~Phew! I'm worn out. Who's up for a nap?~ [zgn2prc]    ///  cd_tired #c
 
-
+@3800 = ~NWN: Noble Matron (TWD)~
+@3801 = ~I will see that it is done.~ [zgn1nmi]    ///  cd_action1 #i
+@3802 = ~The task is done and taken care of.~ [zgn1nmj]    ///  cd_action2 #j
+@3803 = ~I would say yes.~ [zgn1nmk]    ///  cd_action3 #k
+@3804 = ~A fine idea, I would think.~ [zgn1nms]    ///  cd_action4 #s
+@3816 = ~To the fight! Give no quarter!~ [zgn1nma]    ///  cd_battlecry1 #a
+@3817 = ~There is nothing for you here!~ [zgn1nm8]    ///  cd_battlecry2 #8
+@3818 = ~Back with you!~ [zgn1nm9]    ///  cd_battlecry3 #9
+@3819 = ~You are not worthy!~ [zgn1nmg_]   ///  cd_battlecry4 #g_
+@3820 = ~Attack here! Come to me!~ [zgn1nmh_]   ///  cd_battlecry5 #h_
+@3821 = ~There is no such thing as "fashionably idle." Get moving.~ [zgn1nmd]    ///  cd_bored #d
+@3825 = ~Greetings.~ [zgn1nmf]    ///  cd_common1 #f
+@3826 = ~Well hello!~ [zgn1nmg]    ///  cd_common2 #g
+@3827 = ~Here, come listen to what I have to say.~ [zgn1nmh]    ///  cd_common3 #h
+@3828 = ~Greetings to you again.~ [zgn1nm0]    ///  cd_common4 #0
+@3829 = ~What is it that YOU want?~ [zgn1nmk_]   ///  cd_common5 #k_
+@3832 = ~Ahahaha!~ [zgn1nmz]    ///  cd_criticalhit #z
+@3833 = ~By all that's right!~ [zgn1nm1]    ///  cd_criticalmiss #1 (number)
+@3834 = ~Unh!~ [zgn1nml]    ///  cd_damage #l (letter)
+@3835 = ~Aaah!~ [zgn1nmn_]   ///  cd_damage2 #n_
+@3836 = ~Uh!~ [zgn1nmo_]   ///  cd_damage3 #o_
+@3837 = ~These are strange times... Who could have imagined?~ [zgn1nmq]    ///  cd_day #q
+@3838 = ~My elegant spell... Ruined.~ [zgn1nm6]    ///  cd_disrupted #6
+@3840 = ~Aaaa-aah!~ [zgn1nmm]    ///  cd_dying #m
+@3846 = ~I need a healer most immediately. Come here...~ [zgn1nme]    ///  cd_hurt #e
+@3847 = ~Mercy... I am almost gone.~ [zgn1nms_]   ///  cd_hurt2 #s_
+@3848 = ~My attack... does nothing?~ [zgn1nm2]    ///  cd_immune #2
+@3849 = ~I shouldn't be carrying this much.~ [zgn1nm3]    ///  cd_inventory #3
+@3850 = ~Fall in step as you should. Follow.~ [zgn1nmb]    ///  cd_leader #b
+@3851 = ~Watch over me, please. Guard well.~ [zgn1nmt_]   ///  cd_leader2 #t_
+@3852 = ~This cause is lost! Withdraw!~ [zgn1nmu_]   ///  cd_morale_break #u_
+@3855 = ~I am most appreciative.~ [zgn1nm4]    ///  cd_pickpocket #4
+@3864 = ~Into the shadows. Hide.~ [zgn1nm5]    ///  cd_shadows #5
+@3865 = ~I require rest. I am not at my best.~ [zgn1nmc]    ///  cd_tired #c
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
