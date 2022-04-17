@@ -1346,6 +1346,40 @@
 @3664 = ~This seems to call for stealth.~ [zgnmis5]    ///  cd_shadows #5
 @3665 = ~Can we stop for a while? I need to perform my devotions.~ [zgnmisc]    ///  cd_tired #c
 
+@3700 = ~NWN: Male, Prankster (SOU)~
+@3701 = ~Of course I can!~ [zgn2pri]    ///  cd_action1 #i
+@3702 = ~There you go! A beautiful job if I do say so myself.~ [zgn2prj]    ///  cd_action2 #j
+@3703 = ~Yes, yes, YES!~ [zgn2prk]    ///  cd_action3 #k
+@3704 = ~That is an excellent idea!~ [zgn2prs]    ///  cd_action4 #s
+@3705 = ~This way. Come on, slowpoke... Keep up.~ [zgn2prt]    ///  cd_action5 #t
+@3716 = ~Once more into the breach, my friends!~ [zgn2pra]    ///  cd_battlecry1 #a
+@3717 = ~Stand still so I can hit you!~ [zgn2pr8]    ///  cd_battlecry2 #8
+@3718 = ~Ha! A most palpable touch!~ [zgn2pr9]    ///  cd_battlecry3 #9
+@3719 = ~Ooh, that's liable to leave a scar!~ [zgn2prg_]   ///  cd_battlecry4 #g_
+@3720 = ~I could take you on blind-folded...~ [zgn2prh_]   ///  cd_battlecry5 #h_
+@3721 = ~Everyone in favor of moving along raise your hand!~ [zgn2prd]    ///  cd_bored #d
+@3725 = ~Yes?~ [zgn2prf]    ///  cd_common1 #f
+@3726 = ~Greetings and well met.~ [zgn2prg]    ///  cd_common2 #g
+@3727 = ~That reminds me of a story...~ [zgn2prh]    ///  cd_common3 #h
+@3732 = ~Hurray for me!~ [zgn2prz]    ///  cd_criticalhit #z
+@3733 = ~Gadzooks!~ [zgn2pr1]    ///  cd_criticalmiss #1 (number)
+@3734 = ~Ah!~ [zgn2prl]    ///  cd_damage #l (letter)
+@3735 = ~Aah!~ [zgn2prn_]   ///  cd_damage2 #n_
+@3736 = ~Uh!~ [zgn2pro_]   ///  cd_damage3 #o_
+@3738 = ~Not sure that was supposed to go like that.~ [zgn2pr6]    ///  cd_disrupted #6
+@3740 = ~Ooops...~ [zgn2prm]    ///  cd_dying #m
+@3746 = ~Wait a minute! This is my blood! Cleric!~ [zgn2pre]    ///  cd_hurt #e
+@3747 = ~Uh oh... better call a necromancer.~ [zgn2prs_]   ///  cd_hurt2 #s_
+@3748 = ~Ah! Foul sorcery has turned my weapon to rubber!~ [zgn2pr2]    ///  cd_immune #2
+@3749 = ~This pack is heavier than I am.~ [zgn2pr3]    ///  cd_inventory #3
+@3750 = ~All right everyone! Gather 'round.~ [zgn2prb]    ///  cd_leader #b
+@3751 = ~Here's the plan, you smite anyone who gets too close.~ [zgn2prt_]   ///  cd_leader2 #t_
+@3752 = ~Exit, pursued by a bear!~ [zgn2pru_]   ///  cd_morale_break #u_
+@3755 = ~Thank you ever so kindly.~ [zgn2pr4]    ///  cd_pickpocket #4
+@3764 = ~Shush! Let's creep up and catch 'em with their knickers down.~ [zgn2pr5]    ///  cd_shadows #5
+@3765 = ~Phew! I'm worn out. Who's up for a nap?~ [zgn2prc]    ///  cd_tired #c
+
+
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
