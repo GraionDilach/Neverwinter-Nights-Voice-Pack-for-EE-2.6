@@ -1273,6 +1273,40 @@
 @3464 = ~Oh boy, get hidden real fast!~ [zgn1in5]    ///  cd_shadows #5
 @3465 = ~I sure could use some sleep. Really tired.~ [zgn1inc]    ///  cd_tired #c
 
+@3500 = ~NWN: Manic Psychotic (TWD)~
+@3501 = ~I can do that. I can.~ [zgn2mai]    ///  cd_action1 #i
+@3502 = ~I'm done with this.~ [zgn2maj]    ///  cd_action2 #j
+@3503 = ~Yes. Yes.~ [zgn2mak]    ///  cd_action3 #k
+@3504 = ~That's... not a bad idea.~ [zgn2mas]    ///  cd_action4 #s
+@3505 = ~Come on, let's go!~ [zgn2mat]    ///  cd_action5 #t
+@3516 = ~Attack! Kill them! Now!~ [zgn2maa]    ///  cd_battlecry1 #a
+@3517 = ~Yaaaaa!!~ [zgn2ma8]    ///  cd_battlecry2 #8
+@3518 = ~Die die die die die!!~ [zgn2ma9]    ///  cd_battlecry3 #9
+@3519 = ~You won't have me, you won't have me!~ [zgn2mag_]   ///  cd_battlecry4 #g_
+@3520 = ~Come on, fight me here! Come on!~ [zgn2mah_]   ///  cd_battlecry5 #h_
+@3521 = ~I have to get moving... Can't sit still.~ [zgn2mad]    ///  cd_bored #d
+@3525 = ~What, what do you want?~ [zgn2maf]    ///  cd_common1 #f
+@3526 = ~Hello then. Hello.~ [zgn2mag]    ///  cd_common2 #g
+@3527 = ~Listen to me here. Listen.~ [zgn2mah]    ///  cd_common3 #h
+@3532 = ~Yeah, all right!~ [zgn2maz]    ///  cd_criticalhit #z
+@3533 = ~Ohhh!~ [zgn2ma1]    ///  cd_criticalmiss #1 (number)
+@3534 = ~Ungh!~ [zgn2mal]    ///  cd_damage #l (letter)
+@3535 = ~Oow!~ [zgn2man_]   ///  cd_damage2 #n_
+@3536 = ~Aahh! Nnn!~ [zgn2mao_]   ///  cd_damage3 #o_
+@3538 = ~My spell! For the love of...~ [zgn2ma6]    ///  cd_disrupted #6
+@3540 = ~Aaaaeeegh-ha-ha-ha-ha-ha... aaarnhh...~ [zgn2mam]    ///  cd_dying #m
+@3546 = ~I need healing! Do it! Now!~ [zgn2mae]    ///  cd_hurt #e
+@3547 = ~Hurt... Hurt bad... Real bad...~ [zgn2mas_]   ///  cd_hurt2 #s_
+@3548 = ~Nothing? I attack and... nothing?~ [zgn2ma2]    ///  cd_immune #2
+@3549 = ~I can't carry this much. It's too heavy.~ [zgn2ma3]    ///  cd_inventory #3
+@3550 = ~Follow! Do it.~ [zgn2mab]    ///  cd_leader #b
+@3551 = ~Guard me. Don't let anything get near.~ [zgn2mat_]   ///  cd_leader2 #t_
+@3552 = ~Run run RUN!~ [zgn2mau_]   ///  cd_morale_break #u_
+@3555 = ~Thanks. Thanks a lot.~ [zgn2ma4]    ///  cd_pickpocket #4
+@3564 = ~Hide hide hide!~ [zgn2ma5]    ///  cd_shadows #5
+@3565 = ~Rest... I need rest.~ [zgn2mac]    ///  cd_tired #c
+
+
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
 /// @02 = ~~ [zgnj]    ///  cd_action2 #j
