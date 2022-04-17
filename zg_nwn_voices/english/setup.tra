@@ -1306,6 +1306,46 @@
 @3564 = ~Hide hide hide!~ [zgn2ma5]    ///  cd_shadows #5
 @3565 = ~Rest... I need rest.~ [zgn2mac]    ///  cd_tired #c
 
+@3600 = ~NWN: Mischa Waymeet (SOU)~
+@3601 = ~Then let's get going! There's evil to smite in Mystra's name!~ [zgnmisi]    ///  cd_action1 #i
+@3602 = ~Of course.~ [zgnmisj]    ///  cd_action2 #j
+@3603 = ~Yes, that's a wonderful idea... I think.~ [zgnmisk]    ///  cd_action3 #k
+@3604 = ~Of course I can do that.~ [zgnmiss]    ///  cd_action4 #s
+@3605 = ~I'm finished!~ [zgnmist]    ///  cd_action5 #t
+@3606 = ~Yes, that's a splendid idea.~ [zgnmisu]    ///  cd_action6 #u
+@3607 = ~Of course I can do that.~ [zgnmisv]    ///  cd_action7 #v
+@3608 = ~I think we should charge ahead!~ [zgnmisx]    ///  cd_action_rare1 #x
+@3616 = ~For the glory of Mystra! Attack!~ [zgnmisa]    ///  cd_battlecry1 #a
+@3617 = ~There will be justice!~ [zgnmis8]    ///  cd_battlecry2 #8
+@3618 = ~Dare you face me, evil creature... I bet you don't!~ [zgnmis9]    ///  cd_battlecry3 #9
+@3619 = ~Mystra, grant me strength!~ [zgnmisg_]   ///  cd_battlecry4 #g_
+@3620 = ~Woo! Evil creatures to smite! Let's go attack!~ [zgnmish_]   ///  cd_battlecry5 #h_
+@3621 = ~Surely there's some evil out there we could be smiting...~ [zgnmisd]    ///  cd_bored #d
+@3625 = ~Hello again!~ [zgnmisf]    ///  cd_common1 #f
+@3626 = ~Hold up a minute! I need to talk to you!~ [zgnmisg]    ///  cd_common2 #g
+@3627 = ~Greetings, friend.~ [zgnmish]    ///  cd_common3 #h
+@3628 = ~Wait, I have something to say to you.~ [zgnmis0]    ///  cd_common4 #0
+@3629 = ~Yes?~ [zgnmisk_]   ///  cd_common5 #k_
+@3630 = ~I guess Mystra still has work for me here.~ [zgnmisl_]   ///  cd_common6 #l_
+@3632 = ~For glory and honor!~ [zgnmisz]    ///  cd_criticalhit #z
+@3633 = ~May Mystra condemn it to the bleakest hell!~ [zgnmis1]    ///  cd_criticalmiss #1 (number)
+@3634 = ~Ouh!~ [zgnmisl]    ///  cd_damage #l (letter)
+@3635 = ~Ow!~ [zgnmisn_]   ///  cd_damage2 #n_
+@3636 = ~Aw!~ [zgnmiso_]   ///  cd_damage3 #o_
+@3637 = ~I have an idea! Let's pray to Mystra together!~ [zgnmisq]    ///  cd_day #q
+@3638 = ~Mystra must have not wanted that to work.~ [zgnmis6]    ///  cd_disrupted #6
+@3640 = ~Mystra, save me...~ [zgnmism]    ///  cd_dying #m
+@3646 = ~I can feel Mystra's arms reaching out to embrace me...~ [zgnmise]    ///  cd_hurt #e
+@3647 = ~Ah, i need healing!~ [zgnmiss_]   ///  cd_hurt2 #s_
+@3648 = ~My sword may failed me, but my faith remains strong!~ [zgnmis2]    ///  cd_immune #2
+@3649 = ~Ouch! This is as heavy as I imagine the weight of a guilty conscience would be!~ [zgnmis3]    ///  cd_inventory #3
+@3650 = ~Come, follow me!~ [zgnmisb]    ///  cd_leader #b
+@3651 = ~Guard me as we fight... and I shall do the same for you!~ [zgnmist_]   ///  cd_leader2 #t_
+@3652 = ~Let us press onward and die in glorious battle!~ [zgnmisu_]   ///  cd_morale_break #u_
+@3655 = ~May Mystra bless you for your kindness...~ [zgnmis4]    ///  cd_pickpocket #4
+@3664 = ~This seems to call for stealth.~ [zgnmis5]    ///  cd_shadows #5
+@3665 = ~Can we stop for a while? I need to perform my devotions.~ [zgnmisc]    ///  cd_tired #c
+
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
