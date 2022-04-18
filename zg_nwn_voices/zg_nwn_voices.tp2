@@ -1,6 +1,6 @@
 BACKUP ~zg_nwn_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008"
-VERSION ~0.2.1~
+VERSION ~0.3.0~
 
 
 LANGUAGE ~English~ ~english~ ~zg_nwn_voices/english/setup.tra~
@@ -1886,7 +1886,7 @@ LAF cd_add_soundset
   STR_VAR cd_name = "ZGN1FI"
 END
 
-// NWN: Valen Shadowbreath (HOTU)
+// Valen Shadowbreath (HOTU)
 
 LAF cd_add_soundset
   INT_VAR

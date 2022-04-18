@@ -7,6 +7,29 @@ This mod adds Neverwinter Nights voicesets as selectable player voicesets to the
 Due to inconsistency between individual voicesets in the source games, and the differences between voiceset systems, not every voiceset covers every role. Campaign-banter responses are used to pad sets where possible. Discrepancies between characters are commonplace.
 
 ## Version history
+### 0.3.0
+Adds the following characters:
+ - Female, Rogue (HOTU)
+ - Male, Dumb Hero (SOU)
+ - Tomi "Grin" Undergallows (TWD)
+ - Aribeth, Blackguard (HOTU)
+ - Aribeth, Paladin (HOTU)
+ - Tomi "Grin" Undergallows (HOTU)
+ - Female, Mature Commander (SOU)
+ - Male, Violent Fighter (TWD)
+ - Female, Innocent Idealist (TWD)
+ - Male, Manic Psychotic (TWD)
+ - Mischa Waymeet (SOU)
+ - Male, Prankster (SOU)
+ - Female, Noble Matron (TWD)
+ - Male, Neutral Warrior (SOU)
+ - Male, Brooding Dark Hero (TWD)
+ - Katriana (SOU)
+ - Archmage Leomund (SOU)
+ - Female, Fighter (TWD)
+ - Valen Shadowbreath (HOTU)
+ - Female, Maiden (HOTU)
+
 ### 0.2.0
 Fixes: typo on an Aribeth select response.
 
