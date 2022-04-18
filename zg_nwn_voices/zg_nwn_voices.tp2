@@ -1846,6 +1846,46 @@ LAF cd_add_soundset
   STR_VAR cd_name = "ZGNARC"
 END
 
+// Female, Fighter (TWD)
+
+LAF cd_add_soundset
+  INT_VAR
+    cd_select_name        = RESOLVE_STR_REF(@4300) //  name
+    cd_action1            = RESOLVE_STR_REF(@4301) //  i
+    cd_action2            = RESOLVE_STR_REF(@4302) //  j
+    cd_action3            = RESOLVE_STR_REF(@4303) //  k
+    cd_action4            = RESOLVE_STR_REF(@4304) //  s
+    cd_action5            = RESOLVE_STR_REF(@4305) //  t
+    cd_battlecry1         = RESOLVE_STR_REF(@4316) //  a
+    cd_battlecry2         = RESOLVE_STR_REF(@4317) //  8
+    cd_battlecry3         = RESOLVE_STR_REF(@4318) //  9
+    cd_battlecry4         = RESOLVE_STR_REF(@4319) //  g_ (unofficial)
+    cd_battlecry5         = RESOLVE_STR_REF(@4320) //  h_ (unofficial)
+    cd_bored1             = RESOLVE_STR_REF(@4321) //  d
+    cd_common1            = RESOLVE_STR_REF(@4325) //  f
+    cd_common2            = RESOLVE_STR_REF(@4326) //  g
+    cd_common3            = RESOLVE_STR_REF(@4327) //  h
+    cd_criticalhit        = RESOLVE_STR_REF(@4332) //  z
+    cd_criticalmiss       = RESOLVE_STR_REF(@4333) //  1  (number)
+    cd_damage1            = RESOLVE_STR_REF(@4334) //  l  (letter)
+    cd_damage2            = RESOLVE_STR_REF(@4335) //  n_ (unofficial)
+    cd_damage3            = RESOLVE_STR_REF(@4336) //  o_ (unofficial)
+    cd_disrupted          = RESOLVE_STR_REF(@4338) //  6
+    cd_dying1             = RESOLVE_STR_REF(@4340) //  m
+    cd_dying2             = RESOLVE_STR_REF(@4341) //  p_
+    cd_hurt1              = RESOLVE_STR_REF(@4346) //  e
+    cd_hurt2              = RESOLVE_STR_REF(@4347) //  s_
+    cd_immune             = RESOLVE_STR_REF(@4348) //  2
+    cd_inventory          = RESOLVE_STR_REF(@4349) //  3
+    cd_leader1            = RESOLVE_STR_REF(@4350) //  b
+    cd_leader2            = RESOLVE_STR_REF(@4351) //  t_ (unofficial)
+    cd_morale_break1      = RESOLVE_STR_REF(@4352) //  u_ (unofficial)
+    cd_pickpocket         = RESOLVE_STR_REF(@4355) //  4
+    cd_shadows            = RESOLVE_STR_REF(@4364) //  5
+    cd_tired1             = RESOLVE_STR_REF(@4365) //  c
+  STR_VAR cd_name = "ZGN1FI"
+END
+
 /// LAF cd_add_soundset
 ///   INT_VAR
 ///     cd_select_name        = RESOLVE_STR_REF(@00) //  name

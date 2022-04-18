@@ -1558,6 +1558,39 @@
 @4264 = ~Quiet, everyone.~ [zgnarc5]    ///  cd_shadows #5
 @4265 = ~We should rest now.~ [zgnarcc]    ///  cd_tired #c
 
+@4300 = ~NWN: Female, Fighter (TWD)~
+@4301 = ~I can do that.~ [zgn1fii]    ///  cd_action1 #i
+@4302 = ~I'm done with this.~ [zgn1fij]    ///  cd_action2 #j
+@4303 = ~I'd say yes.~ [zgn1fik]    ///  cd_action3 #k
+@4304 = ~That sounds like a good idea to me.~ [zgn1fis]    ///  cd_action4 #s
+@4305 = ~Follow in my step.~ [zgn1fit]    ///  cd_action5 #t
+@4316 = ~At the enemy! Attack!~ [zgn1fia]    ///  cd_battlecry1 #a
+@4317 = ~To victory!~ [zgn1fi8]    ///  cd_battlecry2 #8
+@4318 = ~I will win the day!~ [zgn1fi9]    ///  cd_battlecry3 #9
+@4319 = ~Bring it on!~ [zgn1fig_]   ///  cd_battlecry4 #g_
+@4320 = ~Attack if you can! I don't fear you!~ [zgn1fih_]   ///  cd_battlecry5 #h_
+@4321 = ~We are wasting time. Let's get going!~ [zgn1fid]    ///  cd_bored #d
+@4325 = ~And what do you want?~ [zgn1fif]    ///  cd_common1 #f
+@4326 = ~Greetings to you.~ [zgn1fig]    ///  cd_common2 #g
+@4327 = ~Listen to me, you should hear this.~ [zgn1fih]    ///  cd_common3 #h
+@4332 = ~That's the way! All right!~ [zgn1fiz]    ///  cd_criticalhit #z
+@4333 = ~Blood of the gods!~ [zgn1fi1]    ///  cd_criticalmiss #1 (number)
+@4334 = ~Ugh!~ [zgn1fil]    ///  cd_damage #l (letter)
+@4335 = ~Ah!~ [zgn1fin_]   ///  cd_damage2 #n_
+@4336 = ~Aggh!~ [zgn1fio_]   ///  cd_damage3 #o_
+@4338 = ~My damned magic has failed.~ [zgn1fi6]    ///  cd_disrupted #6
+@4340 = ~Aaaaaagh... agh...~ [zgn1fim]    ///  cd_dying #m
+@4341 = ~Aaagh-aahh...~ [zgn1fip_]   ///  cd_dying2 #p_
+@4346 = ~I need healing. Quickly now.~ [zgn1fie]    ///  cd_hurt #e
+@4347 = ~At my side, aid me here!~ [zgn1fis_]   ///  cd_hurt2 #s_
+@4348 = ~My attack can't touch them!~ [zgn1fi2]    ///  cd_immune #2
+@4349 = ~I can't carry this much. Lose some of it.~ [zgn1fi3]    ///  cd_inventory #3
+@4350 = ~Gather here. Form up.~ [zgn1fib]    ///  cd_leader #b
+@4351 = ~Watch my back, all right!~ [zgn1fit_]   ///  cd_leader2 #t_
+@4352 = ~We are lost! Time to retreat!~ [zgn1fiu_]   ///  cd_morale_break #u_
+@4355 = ~Thank you for that. I appreciate it.~ [zgn1fi4]    ///  cd_pickpocket #4
+@4364 = ~Time to get out of sight. Hide.~ [zgn1fi5]    ///  cd_shadows #5
+@4365 = ~I need some rest if I'm to continue.~ [zgn1fic]    ///  cd_tired #c
 
 
 /// @00 = ~NWN: ~
