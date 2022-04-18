@@ -1482,6 +1482,47 @@
 @4064 = ~Quietly now. Into the shadows.~ [zgn2bs5]    ///  cd_shadows #5
 @4065 = ~I need rest. Soon.~ [zgn2bsc]    ///  cd_tired #c
 
+@4100 = ~NWN: Katriana (SOU)~
+@4101 = ~Indeed.~ [zgnkati]    ///  cd_action1 #i
+@4102 = ~Excellent!~ [zgnkatj]    ///  cd_action2 #j
+@4103 = ~Let's hop to it!~ [zgnkatk]    ///  cd_action3 #k
+@4104 = ~Yeah. Sounds good.~ [zgnkats]    ///  cd_action4 #s
+@4105 = ~Got it. No problem.~ [zgnkatt]    ///  cd_action5 #t
+@4106 = ~All done.~ [zgnkatu]    ///  cd_action6 #u
+@4107 = ~This way.~ [zgnkatv]    ///  cd_action7 #v
+@4108 = ~Can't say I'm surprised.~ [zgnkatx]    ///  cd_action_rare1 #x
+@4116 = ~Lay them low! Attack!~ [zgnkata]    ///  cd_battlecry1 #a
+@4117 = ~Mess with me, will you?~ [zgnkat8]    ///  cd_battlecry2 #8
+@4118 = ~That's it - you're dead!~ [zgnkat9]    ///  cd_battlecry3 #9
+@4119 = ~This looks like trouble!~ [zgnkatg_]   ///  cd_battlecry4 #g_
+@4120 = ~When I'm done, even the buzzards won't want you!~ [zgnkath_]   ///  cd_battlecry5 #h_
+@4121 = ~We. Are. Wasting. Time.~ [zgnkatd]    ///  cd_bored #d
+@4125 = ~Hullo there, friend.~ [zgnkatf]    ///  cd_common1 #f
+@4126 = ~Listen to me for a minute.~ [zgnkatg]    ///  cd_common2 #g
+@4127 = ~Is there something you need?~ [zgnkath]    ///  cd_common3 #h
+@4128 = ~Hello there, friend.~ [zgnkat0]    ///  cd_common4 #0
+@4129 = ~Hmm?~ [zgnkatk_]   ///  cd_common5 #k_
+@4130 = ~Hey there!~ [zgnkatl_]   ///  cd_common6 #l_
+@4131 = ~Hello again.~ [zgnkatm_]   ///  cd_common7 #m_
+@4132 = ~A-ha-ha-ha-ha.~ [zgnkatz]    ///  cd_criticalhit #z
+@4133 = ~Damn! Damn, damn!~ [zgnkat1]    ///  cd_criticalmiss #1 (number)
+@4134 = ~Aaagh!~ [zgnkatl]    ///  cd_damage #l (letter)
+@4135 = ~Agh!~ [zgnkatn_]   ///  cd_damage2 #n_
+@4136 = ~Ahh!~ [zgnkato_]   ///  cd_damage3 #o_
+@4138 = ~Hey, wha... you distracted me!~ [zgnkat6]    ///  cd_disrupted #6
+@4140 = ~Aaaaaaa-aggghh!~ [zgnkatm]    ///  cd_dying #m
+@4146 = ~I could use some healing here!~ [zgnkate]    ///  cd_hurt #e
+@4147 = ~Augh... damn!~ [zgnkats_]   ///  cd_hurt2 #s_
+@4148 = ~Okay... this is not gonna work!~ [zgnkat2]    ///  cd_immune #2
+@4149 = ~Ugh! My knees are buckling!~ [zgnkat3]    ///  cd_inventory #3
+@4150 = ~I need you by my side!~ [zgnkatb]    ///  cd_leader #b
+@4152 = ~It's too much! Get out of here!~ [zgnkatu_]   ///  cd_morale_break #u_
+@4155 = ~Thanks.~ [zgnkat4]    ///  cd_pickpocket #4
+@4164 = ~Sssh! We need to be quiet!~ [zgnkat5]    ///  cd_shadows #5
+@4165 = ~I think this spot's gonna have to do for the night. Let's set up camp!~ [zgnkatc]    ///  cd_tired #c
+@4166 = ~Okay, we all need rest now!~ [zgnkat4_]   ///  cd_tired2 #4_
+
+
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
 /// @02 = ~~ [zgnj]    ///  cd_action2 #j
