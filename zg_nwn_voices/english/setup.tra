@@ -1592,6 +1592,71 @@
 @4364 = ~Time to get out of sight. Hide.~ [zgn1fi5]    ///  cd_shadows #5
 @4365 = ~I need some rest if I'm to continue.~ [zgn1fic]    ///  cd_tired #c
 
+@4400 = ~NWN: Valen Shadowbreath (HOTU)~
+@4401 = ~Very well.~ [zgnvali]    ///  cd_action1 #i
+@4402 = ~It's done.~ [zgnvalj]    ///  cd_action2 #j
+@4403 = ~Yes.~ [zgnvalk]    ///  cd_action3 #k
+@4404 = ~An excellent plan.~ [zgnvals]    ///  cd_action4 #s
+@4405 = ~Come. Let's go.~ [zgnvalt]    ///  cd_action5 #t
+@4406 = ~Into the flames we leap... let those who stand in our path beware.~ [zgnvalu]    ///  cd_action6 #u
+@4407 = ~Does each step that we take on this adventure lead us closer to our death, I wonder?~ [zgnvalv]    ///  cd_action7 #v
+@4408 = ~I am one with my will, one with my mace. Its path is my intent, its length my reach, its thundering blow my gentle kiss.~ [zgnvalx]    ///  cd_action_rare1 #x
+@4409 = ~"Death is the gift
+a blade shall bring.
+Death is the gift,
+a blade shall sing..."~ [zgnvaly]    ///  cd_action_rare2 #y
+@4416 = ~They cannot stand against us! Strike them down!~ [zgnvala]    ///  cd_battlecry1 #a
+@4417 = ~You cannot win this fight!~ [zgnval8]    ///  cd_battlecry2 #8
+@4418 = ~Into the flames we leap!~ [zgnval9]    ///  cd_battlecry3 #9
+@4419 = ~Prepare yourself to battle!~ [zgnvalg_]   ///  cd_battlecry4 #g_
+@4420 = ~My blood calls for yours and it *will* be satisfied.~ [zgnvalh_]   ///  cd_battlecry5 #h_
+@4421 = ~How long must we remain idle? This is accomplishing nothing.~ [zgnvald]    ///  cd_bored #d
+@4422 = ~*humming*~ [zgnvali_]   ///  cd_bored2 #i_
+@4424 = ~I don't like how this place feels. It is as if we are being watched.~ [zgnvalo]    ///  cd_city #o
+@4425 = ~At your command.~ [zgnvalf]    ///  cd_common1 #f
+@4426 = ~Greetings.~ [zgnvalg]    ///  cd_common2 #g
+@4427 = ~I have something to say.~ [zgnvalh]    ///  cd_common3 #h
+@4428 = ~How can I assist you?~ [zgnval0]    ///  cd_common4 #0
+@4429 = ~Might we speak?~ [zgnvalk_]   ///  cd_common5 #k_
+@4430 = ~Do you have need of me?~ [zgnvall_]   ///  cd_common6 #l_
+@4431 = ~I am yours to command.~ [zgnvalm_]   ///  cd_common7 #m_
+@4432 = ~Ha ha! A good day!~ [zgnvalz]    ///  cd_criticalhit #z
+@4433 = ~By the pits of Hell!~ [zgnval1]    ///  cd_criticalmiss #1 (number)
+@4434 = ~Urngh!~ [zgnvall]    ///  cd_damage #l (letter)
+@4435 = ~Unh!~ [zgnvaln_]   ///  cd_damage2 #n_
+@4436 = ~Uh!~ [zgnvalo_]   ///  cd_damage3 #o_
+@4437 = ~My armor is tarnished beyond belief. Is that rust?! I shall have to polish it the next time we stop.~ [zgnvalq]    ///  cd_day #q
+@4438 = ~My magic did not work!~ [zgnval6]    ///  cd_disrupted #6
+@4439 = ~The darkness here is interminable. It is more than shadows... it engulfs the heart and swallows courage.~ [zgnvalp]    ///  cd_dungeon #p
+@4440 = ~Urrrrhhhhhh... ahhh...~ [zgnvalm]    ///  cd_dying #m
+@4442 = ~The words of my mentor come to mind: wait, and weigh your blow carefully. Then strike once and strike hard and it shall be the only one you need.~ [zgnvaln]    ///  cd_forest #n
+@4446 = ~I am wounded! Help me!~ [zgnvale]    ///  cd_hurt #e
+@4447 = ~Ahhh! I will *not* go down!~ [zgnvals_]   ///  cd_hurt2 #s_
+@4448 = ~This weapon is doing nothing!~ [zgnval2]    ///  cd_immune #2
+@4449 = ~How much do you plan on weighing me down with, exactly?~ [zgnval3]    ///  cd_inventory #3
+@4450 = ~We should remain together.~ [zgnvalb]    ///  cd_leader #b
+@4451 = ~I need you at my side!~ [zgnvalt_]   ///  cd_leader2 #t_
+@4452 = ~Fall back! We must regroup!~ [zgnvalu_]   ///  cd_morale_break #u_
+@4454 = ~All the old legends of the greatest adventures do not mention the fact that most of it was spent walking, do they?~ [zgnvalr]    ///  cd_night #r
+@4455 = ~You have my thanks.~ [zgnval4]    ///  cd_pickpocket #4
+@4456 = ~"They say that a lass born in Sigil
+will place her heart in a box
+the key don't you see
+it comes with a fee
+la-ta-ta-la-ta-ta..."~ [zgnvalw_]   ///  cd_select_rare1 #w_
+@4457 = ~"I am the unbeliever,
+a shadow on the planes,
+a whisper true, a song to you,
+my lover's soul refrains..."~ [zgnvalx_]   ///  cd_select_rare2 #x_
+@4458 = ~"One eye to lift and one eye to sleep,
+One to charm man and one for beast.
+One eye to wound and one eye to slow,
+One to bring fear and one to make stone...
+hmmm, now I forget the rest..."~ [zgnvaly_]   ///  cd_select_rare3 #y_
+@4464 = ~Not a sound.~ [zgnval5]    ///  cd_shadows #5
+@4465 = ~We all need our rest.~ [zgnvalc]    ///  cd_tired #c
+
+
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
