@@ -1677,7 +1677,7 @@ LAF cd_add_soundset
   STR_VAR cd_name = "ZGN1NM"
 END
 
-//Male, Neutral Warrior (SOU)
+// Male, Neutral Warrior (SOU)
 
 LAF cd_add_soundset
   INT_VAR
@@ -1715,6 +1715,47 @@ LAF cd_add_soundset
     cd_shadows            = RESOLVE_STR_REF(@3964) //  5
     cd_tired1             = RESOLVE_STR_REF(@3965) //  c
   STR_VAR cd_name = "ZGN2NE"
+END
+
+// Male, Brooding Dark Hero (TWD)
+// assigned BR to Brash, Persistent, so BS this is
+
+LAF cd_add_soundset
+  INT_VAR
+    cd_select_name        = RESOLVE_STR_REF(@4000) //  name
+    cd_action1            = RESOLVE_STR_REF(@4001) //  i
+    cd_action2            = RESOLVE_STR_REF(@4002) //  j
+    cd_action3            = RESOLVE_STR_REF(@4003) //  k
+    cd_action4            = RESOLVE_STR_REF(@4004) //  s
+    cd_battlecry1         = RESOLVE_STR_REF(@4016) //  a
+    cd_battlecry2         = RESOLVE_STR_REF(@4017) //  8
+    cd_battlecry3         = RESOLVE_STR_REF(@4018) //  9
+    cd_battlecry4         = RESOLVE_STR_REF(@4019) //  g_ (unofficial)
+    cd_battlecry5         = RESOLVE_STR_REF(@4020) //  h_ (unofficial)
+    cd_bored1             = RESOLVE_STR_REF(@4021) //  d
+    cd_common1            = RESOLVE_STR_REF(@4025) //  f
+    cd_common2            = RESOLVE_STR_REF(@4026) //  g
+    cd_common3            = RESOLVE_STR_REF(@4027) //  h
+    cd_common4            = RESOLVE_STR_REF(@4028) //  0
+    cd_common5            = RESOLVE_STR_REF(@4029) //  k_ (unofficial)
+    cd_criticalhit        = RESOLVE_STR_REF(@4032) //  z
+    cd_criticalmiss       = RESOLVE_STR_REF(@4033) //  1  (number)
+    cd_damage1            = RESOLVE_STR_REF(@4034) //  l  (letter)
+    cd_damage2            = RESOLVE_STR_REF(@4035) //  n_ (unofficial)
+    cd_damage3            = RESOLVE_STR_REF(@4036) //  o_ (unofficial)
+    cd_disrupted          = RESOLVE_STR_REF(@4038) //  6
+    cd_dying1             = RESOLVE_STR_REF(@4040) //  m
+    cd_hurt1              = RESOLVE_STR_REF(@4046) //  e
+    cd_hurt2              = RESOLVE_STR_REF(@4047) //  s_
+    cd_immune             = RESOLVE_STR_REF(@4048) //  2
+    cd_inventory          = RESOLVE_STR_REF(@4049) //  3
+    cd_leader1            = RESOLVE_STR_REF(@4050) //  b
+    cd_leader2            = RESOLVE_STR_REF(@4051) //  t_ (unofficial)
+    cd_morale_break1      = RESOLVE_STR_REF(@4052) //  u_ (unofficial)
+    cd_pickpocket         = RESOLVE_STR_REF(@4055) //  4
+    cd_shadows            = RESOLVE_STR_REF(@4064) //  5
+    cd_tired1             = RESOLVE_STR_REF(@4065) //  c
+  STR_VAR cd_name = "ZGN2BS"
 END
 
 
