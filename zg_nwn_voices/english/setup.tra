@@ -1336,7 +1336,7 @@
 @3638 = ~Mystra must have not wanted that to work.~ [zgnmis6]    ///  cd_disrupted #6
 @3640 = ~Mystra, save me...~ [zgnmism]    ///  cd_dying #m
 @3646 = ~I can feel Mystra's arms reaching out to embrace me...~ [zgnmise]    ///  cd_hurt #e
-@3647 = ~Ah, i need healing!~ [zgnmiss_]   ///  cd_hurt2 #s_
+@3647 = ~Ah, I need healing!~ [zgnmiss_]   ///  cd_hurt2 #s_
 @3648 = ~My sword may failed me, but my faith remains strong!~ [zgnmis2]    ///  cd_immune #2
 @3649 = ~Ouch! This is as heavy as I imagine the weight of a guilty conscience would be!~ [zgnmis3]    ///  cd_inventory #3
 @3650 = ~Come, follow me!~ [zgnmisb]    ///  cd_leader #b
