@@ -7,6 +7,9 @@ This mod adds Neverwinter Nights voicesets as selectable player voicesets to the
 Due to inconsistency between individual voicesets in the source games, and the differences between voiceset systems, not every voiceset covers every role. Campaign-banter responses are used to pad sets where possible. Discrepancies between characters are commonplace.
 
 ## Version history
+### 0.3.1
+Fix a typo on Mischa Waymeet.
+
 ### 0.3.0
 Adds the following characters:
  - Female, Rogue (HOTU)
