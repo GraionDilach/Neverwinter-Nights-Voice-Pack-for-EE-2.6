@@ -7,6 +7,14 @@ This mod adds Neverwinter Nights voicesets as selectable player voicesets to the
 Due to inconsistency between individual voicesets in the source games, and the differences between voiceset systems, not every voiceset covers every role. Campaign-banter responses are used to pad sets where possible. Discrepancies between characters are commonplace.
 
 ## Version history
+### 0.3.2
+Technical release:
+ - Prevent installing on unmerged SoD.
+ - Move backup and inlined folder to weidu_external.
+ - Disable additiojnal damage sounds proved broken.
+ - Drop voiceless Daelan Red Tiger (HOTU) battle cry.
+ - Fix a typo in Male, Neutral Warrior.
+
 ### 0.3.1
 Fix a typo on Mischa Waymeet.
 
