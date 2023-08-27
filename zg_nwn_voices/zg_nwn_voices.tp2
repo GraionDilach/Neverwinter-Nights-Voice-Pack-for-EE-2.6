@@ -1,4 +1,4 @@
-BACKUP ~zg_nwn_voices/backup~ // location to store files for uninstall purposes
+BACKUP ~weidu_external/zg_nwn_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008"
 VERSION ~0.3.2~
 
@@ -15,6 +15,8 @@ LANGUAGE ~English~ ~english~ ~zg_nwn_voices/english/setup.tra~
 
 BEGIN @0
 LABEL ZG-VOICE-NWN
+
+ACTION_IF ((FILE_EXISTS ~dlc/sod-dlc.zip~) OR (FILE_EXISTS ~sod-dlc.zip~)) THEN BEGIN FAIL @1 END
 
 INCLUDE ~%MOD_FOLDER%/tph/cd_add_soundset.tph~ // includes the macro that does the work
 
