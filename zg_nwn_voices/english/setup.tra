@@ -857,11 +857,10 @@
 @2404 = ~An excellent idea.~ [zgndafs]    ///  cd_action4 #s
 @2405 = ~Are you certain?~ [zgndaft]    ///  cd_action5 #t
 @2406 = ~Step aside so I may pass.~ [zgndafu]    ///  cd_action6 #u
-@2416 = ~Let's get them!~ [zgndafa]    ///  cd_battlecry1 #a
+@2416 = ~Do you dare attack me, cowards?~ [zgndafa]    ///  cd_battlecry1 #a
 @2417 = ~Taste my savage fury!~ [zgndaf8]    ///  cd_battlecry2 #8
 @2418 = ~None can stand against my strength!~ [zgndaf9]    ///  cd_battlecry3 #9
 @2419 = ~Your blood shall spray like rain!~ [zgndafg_]   ///  cd_battlecry4 #g_
-@2420 = ~Do you dare attack me, cowards?~ [zgndafh_]   ///  cd_battlecry5 #h_
 @2421 = ~For adventurers we seem to be doing little adventuring.~ [zgndafd]    ///  cd_bored #d
 @2422 = ~Come on. We must go now.~ [zgndafi_]   ///  cd_bored2 #i_
 @2423 = ~I see no reason for us to speak with each other. I doubt we have anything more to say.~ [zgndafj_]   ///  cd_breaking_pt #j_
@@ -1421,7 +1420,7 @@
 @3903 = ~Yes.~ [zgn2nek]    ///  cd_action3 #k
 @3904 = ~Yes, that makes sense.~ [zgn2nes]    ///  cd_action4 #s
 @3916 = ~Show them your steel! Attack!~ [zgn2nea]    ///  cd_battlecry1 #a
-@3917 = ~Now see what a true warrior looks like~ [zgn2ne8]    ///  cd_battlecry2 #8
+@3917 = ~Now see what a true warrior looks like!~ [zgn2ne8]    ///  cd_battlecry2 #8
 @3918 = ~Make this fight count. It will be your last.~ [zgn2ne9]    ///  cd_battlecry3 #9
 @3919 = ~For honor and glory!~ [zgn2neg_]   ///  cd_battlecry4 #g_
 @3920 = ~I'm giving you one chance to flee. No mercy after that.~ [zgn2neh_]   ///  cd_battlecry5 #h_

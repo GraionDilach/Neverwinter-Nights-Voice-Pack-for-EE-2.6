@@ -1039,7 +1039,6 @@ LAF cd_add_soundset
     cd_battlecry2         = RESOLVE_STR_REF(@2417) //  8
     cd_battlecry3         = RESOLVE_STR_REF(@2418) //  9
     cd_battlecry4         = RESOLVE_STR_REF(@2419) //  g_ (unofficial)
-    cd_battlecry5         = RESOLVE_STR_REF(@2420) //  h_ (unofficial)
     cd_bored1             = RESOLVE_STR_REF(@2421) //  d
     cd_bored2             = RESOLVE_STR_REF(@2422) //  i_ (unofficial)
     cd_breaking_pt        = RESOLVE_STR_REF(@2423) //  j_ (unofficial)
