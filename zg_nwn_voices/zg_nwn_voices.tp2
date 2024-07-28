@@ -1,6 +1,6 @@
 BACKUP ~weidu_external/zg_nwn_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008"
-VERSION ~0.4.0~
+VERSION ~0.4.1~
 
 
 LANGUAGE ~English~ ~english~ ~zg_nwn_voices/english/setup.tra~
