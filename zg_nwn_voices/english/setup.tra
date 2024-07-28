@@ -1725,6 +1725,39 @@ hmmm, now I forget the rest..."~ [zgnvaly_]   ///  cd_select_rare3 #y_
 @4664 = ~We hide now, in shadow.~ [zgn1br5]    ///  cd_shadows #5
 @4665 = ~I need rest time right now.~ [zgn1brc]    ///  cd_tired #c
 
+@4700 = ~NWN: Female, Cold Killer (TWD)~
+@4701 = ~I can do this.~ [zgn1coi]    ///  cd_action1 #i
+@4702 = ~This task is complete.~ [zgn1coj]    ///  cd_action2 #j
+@4703 = ~Yes.~ [zgn1cok]    ///  cd_action3 #k
+@4704 = ~That sounds like a fine idea.~ [zgn1cos]    ///  cd_action4 #s
+@4716 = ~At their throats! Cut them down!~ [zgn1coa]    ///  cd_battlecry1 #a
+@4717 = ~I'll see you cut asunder!~ [zgn1co8]    ///  cd_battlecry2 #8
+@4718 = ~You breath your last!~ [zgn1co9]    ///  cd_battlecry3 #9
+@4719 = ~Only I will walk away!~ [zgn1cog_]   ///  cd_battlecry4 #g_
+@4720 = ~You have no idea the pain you risk. I warn you...~ [zgn1coh_]   ///  cd_battlecry5 #h_
+@4721 = ~We are idle too long. Let's get moving.~ [zgn1cod]    ///  cd_bored #d
+@4725 = ~What do you want?~ [zgn1cof]    ///  cd_common1 #f
+@4726 = ~Greetings and well met.~ [zgn1cog]    ///  cd_common2 #g
+@4727 = ~Listen to me here, and listen well.~ [zgn1coh]    ///  cd_common3 #h
+@4732 = ~Mhahaha.~ [zgn1coz]    ///  cd_criticalhit #z
+@4733 = ~Shadow and hell...!~ [zgn1co1]    ///  cd_criticalmiss #1 (number)
+@4734 = ~Ngh!~ [zgn1col]    ///  cd_damage #l (letter)
+@4735 = ~Aagh!~ [zgn1con_]   ///  cd_damage2 #n_
+@4736 = ~Ah!~ [zgn1coo_]   ///  cd_damage3 #o_
+@4738 = ~Accursed spell! Lost!~ [zgn1co6]    ///  cd_disrupted #6
+@4740 = ~Aaaah... anhhh...~ [zgn1com]    ///  cd_dying #m
+@4741 = ~Unnnh... uhhhh...~ [zgn1cop_]   ///  cd_dying2 #p_
+@4746 = ~My wounds must be healed.~ [zgn1coe]    ///  cd_hurt #e
+@4747 = ~Nnh! I need help here... Now!~ [zgn1cos_]   ///  cd_hurt2 #s_
+@4748 = ~My attack has had no effect on this one!~ [zgn1co2]    ///  cd_immune #2
+@4749 = ~I am no mule. I carry too much.~ [zgn1co3]    ///  cd_inventory #3
+@4750 = ~Follow where I lead.~ [zgn1cob]    ///  cd_leader #b
+@4751 = ~Guard me well.~ [zgn1cot_]   ///  cd_leader2 #t_
+@4752 = ~Away! Retreat! This fight is lost!~ [zgn1cou_]   ///  cd_morale_break #u_
+@4764 = ~To the shadows! Hide!~ [zgn1co5]    ///  cd_shadows #5
+@4765 = ~I am driven past endurance. I must rest.~ [zgn1coc]    ///  cd_tired #c
+
+
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
 /// @02 = ~~ [zgnj]    ///  cd_action2 #j
