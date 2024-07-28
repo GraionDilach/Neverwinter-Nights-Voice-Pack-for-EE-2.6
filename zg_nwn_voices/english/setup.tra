@@ -1791,7 +1791,41 @@ hmmm, now I forget the rest..."~ [zgnvaly_]   ///  cd_select_rare3 #y_
 @4864 = ~To the underbrush, hide as best you can.~ [zgn1gu5]    ///  cd_shadows #5
 @4865 = ~Day and night are a cycle in balance. I need rest as well.~ [zgn1guc]    ///  cd_tired #c
 
-
+@4900 = ~NWN: Female, Noble Scholar (TWD)~
+@4901 = ~I will do it.~ [zgn1noi]    ///  cd_action1 #i
+@4902 = ~This task is complete.~ [zgn1noj]    ///  cd_action2 #j
+@4903 = ~Yes.~ [zgn1nok]    ///  cd_action3 #k
+@4904 = ~I think that's a fine idea.~ [zgn1nos]    ///  cd_action4 #s
+@4916 = ~At my command, attack!~ [zgn1noa]    ///  cd_battlecry1 #a
+@4917 = ~You shall feel my wrath!~ [zgn1no8]    ///  cd_battlecry2 #8
+@4918 = ~You shall fall here today!~ [zgn1no9]    ///  cd_battlecry3 #9
+@4919 = ~This battle will be your last!~ [zgn1nog_]   ///  cd_battlecry4 #g_
+@4920 = ~I have seen the enemy! Over here!~ [zgn1noh_]   ///  cd_battlecry5 #h_
+@4921 = ~We waste too much time. There is much to do.~ [zgn1nod]    ///  cd_bored #d
+@4925 = ~Is there something you want?~ [zgn1nof]    ///  cd_common1 #f
+@4926 = ~I bid you hello.~ [zgn1nog]    ///  cd_common2 #g
+@4927 = ~I have something that must be said.~ [zgn1noh]    ///  cd_common3 #h
+@4928 = ~What do you require?~ [zgn1no0]    ///  cd_common4 #0
+@4929 = ~Greetings.~ [zgn1nok_]   ///  cd_common5 #k_
+@4930 = ~Well hello.~ [zgn1nol_]   ///  cd_common6 #l_
+@4932 = ~Wonderful!~ [zgn1noz]    ///  cd_criticalhit #z
+@4933 = ~By all that is... Ugh!~ [zgn1no1]    ///  cd_criticalmiss #1 (number)
+@4934 = ~Ah!~ [zgn1nol]    ///  cd_damage #l (letter)
+@4935 = ~Oh!~ [zgn1non_]   ///  cd_damage2 #n_
+@4936 = ~Onh!~ [zgn1noo_]   ///  cd_damage3 #o_
+@4938 = ~My spell has failed. Hmph!~ [zgn1no6]    ///  cd_disrupted #6
+@4940 = ~Arrnnh!~ [zgn1nom]    ///  cd_dying #m
+@4946 = ~I require healing. Tend to me.~ [zgn1noe]    ///  cd_hurt #e
+@4947 = ~I'll not last much longer. I'm dying.~ [zgn1nos_]   ///  cd_hurt2 #s_
+@4948 = ~My weapon has had no effect?~ [zgn1no2]    ///  cd_immune #2
+@4949 = ~I carry too much. It will hamper my performance.~ [zgn1no3]    ///  cd_inventory #3
+@4950 = ~Follow where I lead.~ [zgn1nob]    ///  cd_leader #b
+@4951 = ~Watch over me well. Let nothing harm me.~ [zgn1not_]   ///  cd_leader2 #t_
+@4952 = ~This battle is lost! Time to retreat!~ [zgn1nou_]   ///  cd_morale_break #u_
+@4955 = ~Ah-ha-ha.~ [zgn1no4]    ///  cd_pickpocket #4
+@4956 = ~Do not temp my anger! You would regret it!~ [zgn1now_]   ///  cd_select_rare1 #w_
+@4964 = ~To the shadows, and quick.~ [zgn1no5]    ///  cd_shadows #5
+@4965 = ~We should rest if our skills are to be at their best.~ [zgn1noc]    ///  cd_tired #c
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
