@@ -1757,6 +1757,41 @@ hmmm, now I forget the rest..."~ [zgnvaly_]   ///  cd_select_rare3 #y_
 @4764 = ~To the shadows! Hide!~ [zgn1co5]    ///  cd_shadows #5
 @4765 = ~I am driven past endurance. I must rest.~ [zgn1coc]    ///  cd_tired #c
 
+@4800 = ~NWN: Female, Guardian Reserved (TWD)~
+@4801 = ~I will go do this.~ [zgn1gui]    ///  cd_action1 #i
+@4802 = ~It is done, as it should be.~ [zgn1guj]    ///  cd_action2 #j
+@4803 = ~Yes indeed.~ [zgn1guk]    ///  cd_action3 #k
+@4804 = ~I think that is a fine idea.~ [zgn1gus]    ///  cd_action4 #s
+@4816 = ~To the fight! Onward!~ [zgn1gua]    ///  cd_battlecry1 #a
+@4817 = ~The good of all!~ [zgn1gu8]    ///  cd_battlecry2 #8
+@4818 = ~By the mother's wrath!~ [zgn1gu9]    ///  cd_battlecry3 #9
+@4819 = ~Here you meet your end!~ [zgn1gug_]   ///  cd_battlecry4 #g_
+@4820 = ~The enemy of the moment is in my sight.~ [zgn1guh_]   ///  cd_battlecry5 #h_
+@4821 = ~We add unnecessary length to our journey just lounging about.~ [zgn1gud]    ///  cd_bored #d
+@4825 = ~Hello to you.~ [zgn1guf]    ///  cd_common1 #f
+@4826 = ~Warm winds and hello.~ [zgn1gug]    ///  cd_common2 #g
+@4827 = ~I have something that should be heard.~ [zgn1guh]    ///  cd_common3 #h
+@4828 = ~Guide your attention to me!~ [zgn1gu0]    ///  cd_common4 #0
+@4832 = ~Nature's blessing, this is good!~ [zgn1guz]    ///  cd_criticalhit #z
+@4833 = ~By all the... gah!~ [zgn1gu1]    ///  cd_criticalmiss #1 (number)
+@4834 = ~Uh!~ [zgn1gul]    ///  cd_damage #l (letter)
+@4835 = ~Ooh!~ [zgn1gun_]   ///  cd_damage2 #n_
+@4836 = ~Ah!~ [zgn1guo_]   ///  cd_damage3 #o_
+@4838 = ~My magic has failed.~ [zgn1gu6]    ///  cd_disrupted #6
+@4840 = ~Uaaah!~ [zgn1gum]    ///  cd_dying #m
+@4846 = ~I am wounded... Heal me here.~ [zgn1gue]    ///  cd_hurt #e
+@4847 = ~I am gravely wounded...~ [zgn1gus_]   ///  cd_hurt2 #s_
+@4848 = ~By the very earth! I have had... no effect.~ [zgn1gu2]    ///  cd_immune #2
+@4849 = ~I carry too much. Walking is difficult...~ [zgn1gu3]    ///  cd_inventory #3
+@4850 = ~Here, follow me.~ [zgn1gub]    ///  cd_leader #b
+@4851 = ~Shield me from the enemy.~ [zgn1gut_]   ///  cd_leader2 #t_
+@4852 = ~It is time to concede! We are lost!~ [zgn1guu_]   ///  cd_morale_break #u_
+@4855 = ~Ah-ha-ha-ha-ha.~ [zgn1gu4]    ///  cd_pickpocket #4
+@4856 = ~Press your actions and I will respond with all the fury of nature!~ [zgn1guw_]   ///  cd_select_rare1 #w_
+@4864 = ~To the underbrush, hide as best you can.~ [zgn1gu5]    ///  cd_shadows #5
+@4865 = ~Day and night are a cycle in balance. I need rest as well.~ [zgn1guc]    ///  cd_tired #c
+
+
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
