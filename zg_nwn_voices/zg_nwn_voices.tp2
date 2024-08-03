@@ -2469,6 +2469,43 @@ LAF cd_add_soundset
   STR_VAR cd_name = "ZGN2ST"
 END
 
+// Male, Typical Fighter (HOTU)
+
+LAF cd_add_soundset
+  INT_VAR
+    cd_select_name        = RESOLVE_STR_REF(@5800) //  name
+    cd_action1            = RESOLVE_STR_REF(@5801) //  i
+    cd_action2            = RESOLVE_STR_REF(@5802) //  j
+    cd_action3            = RESOLVE_STR_REF(@5803) //  k
+    cd_action4            = RESOLVE_STR_REF(@5804) //  s
+    cd_battlecry1         = RESOLVE_STR_REF(@5816) //  a
+    cd_battlecry2         = RESOLVE_STR_REF(@5817) //  8
+    cd_battlecry3         = RESOLVE_STR_REF(@5818) //  9
+    cd_battlecry4         = RESOLVE_STR_REF(@5819) //  g_ (unofficial)
+    cd_battlecry5         = RESOLVE_STR_REF(@5820) //  h_ (unofficial)
+    cd_bored1             = RESOLVE_STR_REF(@5821) //  d
+    cd_common1            = RESOLVE_STR_REF(@5825) //  f
+    cd_common2            = RESOLVE_STR_REF(@5826) //  g
+    cd_common3            = RESOLVE_STR_REF(@5827) //  h
+    cd_criticalhit        = RESOLVE_STR_REF(@5832) //  z
+    cd_criticalmiss       = RESOLVE_STR_REF(@5833) //  1  (number)
+    cd_damage1            = RESOLVE_STR_REF(@5834) //  l  (letter)
+    // cd_damage2         = RESOLVE_STR_REF(@5835) //  n_ (unofficial) - BROKEN!
+    // cd_damage3         = RESOLVE_STR_REF(@5836) //  o_ (unofficial) - BROKEN!
+    cd_disrupted          = RESOLVE_STR_REF(@5838) //  6
+    cd_dying1             = RESOLVE_STR_REF(@5840) //  m
+    cd_hurt1              = RESOLVE_STR_REF(@5846) //  e
+    cd_hurt2              = RESOLVE_STR_REF(@5847) //  s_
+    cd_immune             = RESOLVE_STR_REF(@5848) //  2
+    cd_inventory          = RESOLVE_STR_REF(@5849) //  3
+    cd_leader1            = RESOLVE_STR_REF(@5850) //  b
+    cd_leader2            = RESOLVE_STR_REF(@5851) //  t_ (unofficial)
+    cd_morale_break1      = RESOLVE_STR_REF(@5852) //  u_ (unofficial)
+    cd_pickpocket         = RESOLVE_STR_REF(@5855) //  4
+    cd_shadows            = RESOLVE_STR_REF(@5864) //  5
+    cd_tired1             = RESOLVE_STR_REF(@5865) //  c
+  STR_VAR cd_name = "ZGN2TY"
+END
 
 /// LAF cd_add_soundset
 ///   INT_VAR

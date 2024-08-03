@@ -2104,6 +2104,37 @@ hmmm, now I forget the rest..."~ [zgnvaly_]   ///  cd_select_rare3 #y_
 @5764 = ~Shhh... they must not spot us.~ [zgn2st5]    ///  cd_shadows #5
 @5765 = ~We had better stop here for a moment.~ [zgn2stc]    ///  cd_tired #c
 
+@5800 = ~NWN: Male, Typical Fighter (HOTU)~
+@5801 = ~Easy enough.~ [zgn2tyi]    ///  cd_action1 #i
+@5802 = ~All done.~ [zgn2tyj]    ///  cd_action2 #j
+@5803 = ~Yes.~ [zgn2tyk]    ///  cd_action3 #k
+@5804 = ~A good plan.~ [zgn2tys]    ///  cd_action4 #s
+@5816 = ~Time to spill some blood!~ [zgn2tya]    ///  cd_battlecry1 #a
+@5817 = ~You're no match for me!~ [zgn2ty8]    ///  cd_battlecry2 #8
+@5818 = ~Feel my fury!~ [zgn2ty9]    ///  cd_battlecry3 #9
+@5819 = ~You're going down!~ [zgn2tyg_]   ///  cd_battlecry4 #g_
+@5820 = ~Come on - take your best shot!~ [zgn2tyh_]   ///  cd_battlecry5 #h_
+@5821 = ~Are we just going to stand here?~ [zgn2tyd]    ///  cd_bored #d
+@5825 = ~Yes?~ [zgn2tyf]    ///  cd_common1 #f
+@5826 = ~Greetings.~ [zgn2tyg]    ///  cd_common2 #g
+@5827 = ~We should talk.~ [zgn2tyh]    ///  cd_common3 #h
+@5832 = ~Ha-ha-ha-ha.~ [zgn2tyz]    ///  cd_criticalhit #z
+@5833 = ~Boiling blood and swinging swords!~ [zgn2ty1]    ///  cd_criticalmiss #1 (number)
+@5834 = ~Ah!~ [zgn2tyl]    ///  cd_damage #l (letter)
+@5835 = ~Ah!~ [zgn2tyn_]   ///  cd_damage2 #n_
+@5836 = ~Ah!~ [zgn2tyo_]   ///  cd_damage3 #o_
+@5838 = ~That spell didn't work!~ [zgn2ty6]    ///  cd_disrupted #6
+@5840 = ~Aa-aa-aah...~ [zgn2tym]    ///  cd_dying #m
+@5846 = ~I'm hurt! Somebody heal me.~ [zgn2tye]    ///  cd_hurt #e
+@5847 = ~Darkness... closing in.~ [zgn2tys_]   ///  cd_hurt2 #s_
+@5848 = ~This weapon is useless!~ [zgn2ty2]    ///  cd_immune #2
+@5849 = ~Can't... move. Too much... equipment.~ [zgn2ty3]    ///  cd_inventory #3
+@5850 = ~Follow me!~ [zgn2tyb]    ///  cd_leader #b
+@5851 = ~Guard me.~ [zgn2tyt_]   ///  cd_leader2 #t_
+@5852 = ~Retreat!~ [zgn2tyu_]   ///  cd_morale_break #u_
+@5855 = ~You have my thanks.~ [zgn2ty4]    ///  cd_pickpocket #4
+@5864 = ~Stay as quiet as possible.~ [zgn2ty5]    ///  cd_shadows #5
+@5865 = ~I could use a break.~ [zgn2tyc]    ///  cd_tired #c
 
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
