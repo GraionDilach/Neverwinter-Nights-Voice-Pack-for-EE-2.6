@@ -2072,6 +2072,39 @@ hmmm, now I forget the rest..."~ [zgnvaly_]   ///  cd_select_rare3 #y_
 @5664 = ~In case it has escaped your attention, stealth is called for here.~ [zgn2po5]    ///  cd_shadows #5
 @5665 = ~Enough of this rushing about. I wish to stop and rest a while.~ [zgn2poc]    ///  cd_tired #c
 
+@5700 = ~NWN: Male, Stealth Specialist (SOU)~
+@5701 = ~Yes, of course.~ [zgn2sti]    ///  cd_action1 #i
+@5702 = ~There, that's it.~ [zgn2stj]    ///  cd_action2 #j
+@5703 = ~Perhaps so.~ [zgn2stk]    ///  cd_action3 #k
+@5704 = ~I like the sound of that.~ [zgn2sts]    ///  cd_action4 #s
+@5716 = ~Now! Strike swiftly!~ [zgn2sta]    ///  cd_battlecry1 #a
+@5717 = ~My steel will strike true.~ [zgn2st8]    ///  cd_battlecry2 #8
+@5718 = ~You will regret that.~ [zgn2st9]    ///  cd_battlecry3 #9
+@5719 = ~We won't both walk away from this.~ [zgn2stg_]   ///  cd_battlecry4 #g_
+@5720 = ~Show me what you've got...~ [zgn2sth_]   ///  cd_battlecry5 #h_
+@5721 = ~I think it's time we moved on.~ [zgn2std]    ///  cd_bored #d
+@5725 = ~Hmmm? What?~ [zgn2stf]    ///  cd_common1 #f
+@5726 = ~What do you want?~ [zgn2stg]    ///  cd_common2 #g
+@5727 = ~Wait, hear me out.~ [zgn2sth]    ///  cd_common3 #h
+@5732 = ~Well done.~ [zgn2stz]    ///  cd_criticalhit #z
+@5733 = ~Damn your eyes.~ [zgn2st1]    ///  cd_criticalmiss #1 (number)
+@5734 = ~Uh!~ [zgn2stl]    ///  cd_damage #l (letter)
+@5735 = ~Ah!~ [zgn2stn_]   ///  cd_damage2 #n_
+@5736 = ~A-ah!~ [zgn2sto_]   ///  cd_damage3 #o_
+@5738 = ~Something interferes with my magic...~ [zgn2st6]    ///  cd_disrupted #6
+@5740 = ~Ngggh... aarhhh...~ [zgn2stm]    ///  cd_dying #m
+@5746 = ~I need some bandages... now!~ [zgn2ste]    ///  cd_hurt #e
+@5747 = ~I can't hold out much longer.~ [zgn2sts_]   ///  cd_hurt2 #s_
+@5748 = ~Some sorcery turns my attack...~ [zgn2st2]    ///  cd_immune #2
+@5749 = ~Oof, I have to lighten this load.~ [zgn2st3]    ///  cd_inventory #3
+@5750 = ~Stay close, and step where I step.~ [zgn2stb]    ///  cd_leader #b
+@5751 = ~Watch my back.~ [zgn2stt_]   ///  cd_leader2 #t_
+@5752 = ~Quickly, fade back to the shadows...~ [zgn2stu_]   ///  cd_morale_break #u_
+@5755 = ~Hehehehe...~ [zgn2st4]    ///  cd_pickpocket #4
+@5764 = ~Shhh... they must not spot us.~ [zgn2st5]    ///  cd_shadows #5
+@5765 = ~We had better stop here for a moment.~ [zgn2stc]    ///  cd_tired #c
+
+
 /// @00 = ~NWN: ~
 /// @01 = ~~ [zgni]    ///  cd_action1 #i
 /// @02 = ~~ [zgnj]    ///  cd_action2 #j
